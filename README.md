@@ -13,6 +13,8 @@
 [![Platform](https://img.shields.io/badge/Platform-iOS%2016%2B-lightgrey.svg?style=flat&logo=apple)](https://developer.apple.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+![1st Place](https://img.shields.io/badge/🏆%20Hackathon-1st%20Place-gold?style=for-the-badge)
+
 > *Browse luxury North Cyprus properties and interact with CICO — your personal AI investment sales assistant — via text or voice.*
 
 </div>
@@ -39,6 +41,8 @@
 ---
 
 ## Overview
+
+> **🏆 This project won 1st place at the Cyprus Constructions Hackathon.**
 
 **hackMobile** is a premium iOS real estate application built for **Cyprus Constructions**, showcasing luxury properties exclusively in **North Cyprus**. The app combines a beautiful Scandinavian minimal design with cutting-edge AI capabilities, allowing potential investors to browse properties and interact with **CICO** — an intelligent AI sales consultant powered by a locally-running Ollama LLM.
 
