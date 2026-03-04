@@ -11,7 +11,6 @@
 [![Ollama](https://img.shields.io/badge/AI-Ollama%20LLM-green.svg?style=flat)](https://ollama.ai)
 [![Flask](https://img.shields.io/badge/Backend-Flask%20API-black.svg?style=flat&logo=flask)](https://flask.palletsprojects.com)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2016%2B-lightgrey.svg?style=flat&logo=apple)](https://developer.apple.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ![1st Place](https://img.shields.io/badge/🏆%20Hackathon-1st%20Place-gold?style=for-the-badge)
 
