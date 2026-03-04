@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings (Turkish)
+  hackMobile
+*/
+
+// HomeView
+"discover" = "Keşfet";
+"your_perfect_home" = "Mükemmel evinizi bulun";
+"search_by_project" = "Proje (Aloha, Edremit...) veya emlak ara...";
+"loading_properties" = "Emlaklar yükleniyor...";
+
+// Filter Pills
+"filter_all" = "Tümü";
+"filter_available" = "Müsait";
+"filter_sold" = "Satıldı";
+"filter_luxury" = "Lüks";
+"filter_new" = "Yeni";
+
+// PropertyCard
+"sold" = "SATILDI";
+"from" = "Başlangıç";
+
+// PropertyDetailView
+"price_range" = "Fiyat Aralığı";
+"bedrooms" = "Yatak Odası";
+"bathrooms" = "Banyo";
+"sq_ft" = "m²";
+"amenities" = "Özellikler";
+"about_this_property" = "Bu emlak hakkında";
+"contact_agent" = "Emlakçıyla İletişime Geç";
+"schedule_tour" = "Tur Planla";
+"image_not_found" = "Görsel bulunamadı";
+
+// AIChatView
+"ai_assistant" = "AI Asistan";
+"ask_me_anything" = "Emlaklar hakkında bana sorun";
+"cico_connecting" = "CICO bağlanıyor...";
+"responding" = "Yanıtlanıyor...";
+"ask_about_properties" = "Emlaklar hakkında soru sorun...";
+"error_occurred" = "Üzgünüm, bir hata oluştu. Lütfen tekrar deneyin. Hata: %@";
+
+
+
+
+
+
+
+
