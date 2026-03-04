@@ -469,7 +469,6 @@ git push origin feature/amazing-feature
 
 <div align="center">
 
-**Built with ❤️ for Cyprus Constructions Hackathon**
 
 *SwiftUI · Ollama · Flask · Edge TTS · North Cyprus Real Estate*
 
