@@ -2,7 +2,7 @@
 
 <img src="hackMobile/hackMobile/evler/cyprusConstructions/3d-Logo-800-V2-768x211.png" alt="Cyprus Constructions Logo" width="400"/>
 
-# hackMobile — CICO AI Real Estate App
+# CICO AI Real Estate App
 
 **An AI-powered luxury real estate iOS application for Cyprus Constructions**
 
