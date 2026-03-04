@@ -99,21 +99,6 @@ Built during a hackathon, this app demonstrates full-stack mobile AI integration
   </tr>
 </table>
 
-### Property Showcase
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="hackMobile/hackMobile/evler/Aloha Beach Resort/PHASE 1 SEA SIDE.jpg" width="280"/>
-      <br/><b>Aloha Beach Resort</b>
-    </td>
-    <td align="center">
-      <img src="hackMobile/hackMobile/evler/Edremmit Villas/1.jpg" width="280"/>
-      <br/><b>Edremmit Villas</b>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Architecture
