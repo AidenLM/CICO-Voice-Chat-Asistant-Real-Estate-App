@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings (English)
+  hackMobile
+*/
+
+// HomeView
+"discover" = "Discover";
+"your_perfect_home" = "Your perfect home";
+"search_by_project" = "Search by project (Aloha, Edremit...) or property...";
+"loading_properties" = "Loading properties...";
+
+// Filter Pills
+"filter_all" = "All";
+"filter_available" = "Available";
+"filter_sold" = "Sold";
+"filter_luxury" = "Luxury";
+"filter_new" = "New";
+
+// PropertyCard
+"sold" = "SOLD";
+"from" = "From";
+
+// PropertyDetailView
+"price_range" = "Price Range";
+"bedrooms" = "Bedrooms";
+"bathrooms" = "Bathrooms";
+"sq_ft" = "Sq Ft";
+"amenities" = "Amenities";
+"about_this_property" = "About this property";
+"contact_agent" = "Contact Agent";
+"schedule_tour" = "Schedule Tour";
+"image_not_found" = "Image not found";
+
+// AIChatView
+"ai_assistant" = "AI Assistant";
+"ask_me_anything" = "Ask me anything about properties";
+"cico_connecting" = "CICO is connecting...";
+"responding" = "Responding...";
+"ask_about_properties" = "Ask about properties...";
+"error_occurred" = "Sorry, an error occurred. Please try again. Error: %@";
+
+
+
+
+
+
+
+

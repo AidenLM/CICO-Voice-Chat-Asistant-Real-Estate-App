@@ -1,0 +1,1442 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04CE42482EE44F8300DDC10F /* cam9.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FE2EE44F8300DDC10F /* cam9.origRGB.jpg */; };
+		04CE42492EE44F8300DDC10F /* 2+1 BEDROOM 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420C2EE44F8300DDC10F /* 2+1 BEDROOM 2.jpg */; };
+		04CE424A2EE44F8300DDC10F /* Edremit 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F12EE44F8300DDC10F /* Edremit 3.jpeg */; };
+		04CE424B2EE44F8300DDC10F /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E72EE44F8300DDC10F /* 11.jpg */; };
+		04CE424C2EE44F8300DDC10F /* ECOHouse Bedroom 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42222EE44F8300DDC10F /* ECOHouse Bedroom 6.jpg */; };
+		04CE424D2EE44F8300DDC10F /* A block phase 1 (1+1) .jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C72EE44F8300DDC10F /* A block phase 1 (1+1) .jpg */; };
+		04CE424E2EE44F8300DDC10F /* PHU1 NIGHT2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422C2EE44F8300DDC10F /* PHU1 NIGHT2.jpg */; };
+		04CE424F2EE44F8300DDC10F /* 0898.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F72EE44F8300DDC10F /* 0898.origRGB.jpg */; };
+		04CE42502EE44F8300DDC10F /* PHUKET 1 MAY 22 - 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42352EE44F8300DDC10F /* PHUKET 1 MAY 22 - 2.jpg */; };
+		04CE42512EE44F8300DDC10F /* ECOHouse Bedroom 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42202EE44F8300DDC10F /* ECOHouse Bedroom 5.jpg */; };
+		04CE42522EE44F8300DDC10F /* total site night view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42412EE44F8300DDC10F /* total site night view.jpg */; };
+		04CE42532EE44F8300DDC10F /* 2+1 BEDROOM 2.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420D2EE44F8300DDC10F /* 2+1 BEDROOM 2.1.jpg */; };
+		04CE42542EE44F8300DDC10F /* 1+1 block front profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C02EE44F8300DDC10F /* 1+1 block front profile.jpeg */; };
+		04CE42552EE44F8300DDC10F /* 5+1 Villa view.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C52EE44F8300DDC10F /* 5+1 Villa view.jpeg */; };
+		04CE42562EE44F8300DDC10F /* ECOHouse Bedroom 4.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421F2EE44F8300DDC10F /* ECOHouse Bedroom 4.1.jpg */; };
+		04CE42572EE44F8300DDC10F /* BeachDeck1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42182EE44F8300DDC10F /* BeachDeck1.jpg */; };
+		04CE42582EE44F8300DDC10F /* SKY VIEW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DA2EE44F8300DDC10F /* SKY VIEW.jpg */; };
+		04CE42592EE44F8300DDC10F /* cam15.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42002EE44F8300DDC10F /* cam15.origRGB.jpg */; };
+		04CE425A2EE44F8300DDC10F /* gece cam1.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42052EE44F8300DDC10F /* gece cam1.origRGB.jpg */; };
+		04CE425B2EE44F8300DDC10F /* night site view 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42272EE44F8300DDC10F /* night site view 1.jpg */; };
+		04CE425C2EE44F8300DDC10F /* cam6.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FD2EE44F8300DDC10F /* cam6.origRGB.jpg */; };
+		04CE425D2EE44F8300DDC10F /* PHU1 VILLA KARE PINTEREST.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42322EE44F8300DDC10F /* PHU1 VILLA KARE PINTEREST.jpg */; };
+		04CE425E2EE44F8300DDC10F /* 2+1 Interior 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42102EE44F8300DDC10F /* 2+1 Interior 2.jpg */; };
+		04CE425F2EE44F8300DDC10F /* PHASE 2 A BLOCK.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D22EE44F8300DDC10F /* PHASE 2 A BLOCK.jpg */; };
+		04CE42602EE44F8300DDC10F /* 4 DEC 2+1 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42152EE44F8300DDC10F /* 4 DEC 2+1 1.jpg */; };
+		04CE42612EE44F8300DDC10F /* cam18.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42012EE44F8300DDC10F /* cam18.origRGB.jpg */; };
+		04CE42622EE44F8300DDC10F /* RESTAURANT POOL AND VILLAS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D82EE44F8300DDC10F /* RESTAURANT POOL AND VILLAS.jpg */; };
+		04CE42632EE44F8300DDC10F /* ECOHouse Bedroom 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421D2EE44F8300DDC10F /* ECOHouse Bedroom 3.jpg */; };
+		04CE42642EE44F8300DDC10F /* Phuket1 Site 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423D2EE44F8300DDC10F /* Phuket1 Site 4.jpg */; };
+		04CE42652EE44F8300DDC10F /* RESTAURANT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D72EE44F8300DDC10F /* RESTAURANT.jpg */; };
+		04CE42662EE44F8300DDC10F /* Phase 2 1+1 blocks .png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D02EE44F8300DDC10F /* Phase 2 1+1 blocks .png */; };
+		04CE42672EE44F8300DDC10F /* ECOHouse Bedroom 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421A2EE44F8300DDC10F /* ECOHouse Bedroom 1.jpg */; };
+		04CE42682EE44F8300DDC10F /* cam1.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F92EE44F8300DDC10F /* cam1.origRGB.jpg */; };
+		04CE42692EE44F8300DDC10F /* Phase 2 1+1 blocks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CF2EE44F8300DDC10F /* Phase 2 1+1 blocks.jpg */; };
+		04CE426A2EE44F8300DDC10F /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E22EE44F8300DDC10F /* 6.jpg */; };
+		04CE426B2EE44F8300DDC10F /* PHU1 NIGHT5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422F2EE44F8300DDC10F /* PHU1 NIGHT5.jpg */; };
+		04CE426C2EE44F8300DDC10F /* 2+1 Sun SET.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42122EE44F8300DDC10F /* 2+1 Sun SET.jpg */; };
+		04CE426D2EE44F8300DDC10F /* east side night.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42192EE44F8300DDC10F /* east side night.jpg */; };
+		04CE426E2EE44F8300DDC10F /* 23 APRIL PHUKET 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42172EE44F8300DDC10F /* 23 APRIL PHUKET 1.jpg */; };
+		04CE426F2EE44F8300DDC10F /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E42EE44F8300DDC10F /* 8.jpg */; };
+		04CE42702EE44F8300DDC10F /* Fountains in Phase 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C92EE44F8300DDC10F /* Fountains in Phase 1.jpg */; };
+		04CE42712EE44F8300DDC10F /* Edremit 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F32EE44F8300DDC10F /* Edremit 5.jpeg */; };
+		04CE42722EE44F8300DDC10F /* 1+1 phase 1 blocks A type.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C12EE44F8300DDC10F /* 1+1 phase 1 blocks A type.jpeg */; };
+		04CE42732EE44F8300DDC10F /* 1+1 phase 2 blocks.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C22EE44F8300DDC10F /* 1+1 phase 2 blocks.jpeg */; };
+		04CE42742EE44F8300DDC10F /* ECOHouse Bedroom 2.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421C2EE44F8300DDC10F /* ECOHouse Bedroom 2.1.jpg */; };
+		04CE42752EE44F8300DDC10F /* VILLA MASTER BEDROOM.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42432EE44F8300DDC10F /* VILLA MASTER BEDROOM.jpg */; };
+		04CE42762EE44F8300DDC10F /* Night 18 September 3 - LOGOSUZ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CA2EE44F8300DDC10F /* Night 18 September 3 - LOGOSUZ.jpg */; };
+		04CE42772EE44F8300DDC10F /* Phuket1 Site 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423C2EE44F8300DDC10F /* Phuket1 Site 3.jpg */; };
+		04CE42782EE44F8300DDC10F /* PHASE 2 B BLOCKS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D62EE44F8300DDC10F /* PHASE 2 B BLOCKS.jpg */; };
+		04CE42792EE44F8300DDC10F /* Phuket1 Site 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423E2EE44F8300DDC10F /* Phuket1 Site 5.jpg */; };
+		04CE427A2EE44F8300DDC10F /* private pool 2+1 front view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423F2EE44F8300DDC10F /* private pool 2+1 front view.jpg */; };
+		04CE427B2EE44F8300DDC10F /* Aloha 6 september Sun-Set.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C82EE44F8300DDC10F /* Aloha 6 september Sun-Set.png */; };
+		04CE427C2EE44F8300DDC10F /* PHUKET1 SITE 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423B2EE44F8300DDC10F /* PHUKET1 SITE 2.jpg */; };
+		04CE427D2EE44F8300DDC10F /* PHASE 1 3 BEDROOM VILLAS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CB2EE44F8300DDC10F /* PHASE 1 3 BEDROOM VILLAS.jpg */; };
+		04CE427E2EE44F8300DDC10F /* PHU1 NIGHT4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422E2EE44F8300DDC10F /* PHU1 NIGHT4.jpg */; };
+		04CE427F2EE44F8300DDC10F /* PHASE 1 SEA SIDE.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CD2EE44F8300DDC10F /* PHASE 1 SEA SIDE.jpg */; };
+		04CE42802EE44F8300DDC10F /* PHU1 NIGHT1 KARE PİNTEREST.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422B2EE44F8300DDC10F /* PHU1 NIGHT1 KARE PİNTEREST.jpg */; };
+		04CE42812EE44F8300DDC10F /* west side.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42452EE44F8300DDC10F /* west side.jpg */; };
+		04CE42822EE44F8300DDC10F /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42092EE44F8300DDC10F /* 2.jpg */; };
+		04CE42832EE44F8300DDC10F /* PHASE 2 B BLOCK.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D42EE44F8300DDC10F /* PHASE 2 B BLOCK.jpg */; };
+		04CE42842EE44F8300DDC10F /* 13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E82EE44F8300DDC10F /* 13.jpg */; };
+		04CE42852EE44F8300DDC10F /* 2+1 BEDROOM.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420B2EE44F8300DDC10F /* 2+1 BEDROOM.jpg */; };
+		04CE42862EE44F8300DDC10F /* gece cam9.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42062EE44F8300DDC10F /* gece cam9.origRGB.jpg */; };
+		04CE42872EE44F8300DDC10F /* PHU1 VILLA1.2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42342EE44F8300DDC10F /* PHU1 VILLA1.2.jpg */; };
+		04CE42882EE44F8300DDC10F /* A BLOCK CORNER APARTMENTS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C62EE44F8300DDC10F /* A BLOCK CORNER APARTMENTS.jpg */; };
+		04CE42892EE44F8300DDC10F /* ECOHouse Bedroom 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421B2EE44F8300DDC10F /* ECOHouse Bedroom 2.jpg */; };
+		04CE428A2EE44F8300DDC10F /* PHASE 2 B BLOCK VIEW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D52EE44F8300DDC10F /* PHASE 2 B BLOCK VIEW.jpg */; };
+		04CE428B2EE44F8300DDC10F /* 2+1 Interior 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420F2EE44F8300DDC10F /* 2+1 Interior 1.jpg */; };
+		04CE428C2EE44F8300DDC10F /* 1+1 35M2 PHASE 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41BF2EE44F8300DDC10F /* 1+1 35M2 PHASE 1.jpeg */; };
+		04CE428D2EE44F8300DDC10F /* PHUKET Phase 1 SITE 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42362EE44F8300DDC10F /* PHUKET Phase 1 SITE 2.jpg */; };
+		04CE428E2EE44F8300DDC10F /* 17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EB2EE44F8300DDC10F /* 17.jpg */; };
+		04CE428F2EE44F8300DDC10F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DD2EE44F8300DDC10F /* 1.jpg */; };
+		04CE42902EE44F8300DDC10F /* ECOHouse Bedroom 5.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42212EE44F8300DDC10F /* ECOHouse Bedroom 5.1.jpg */; };
+		04CE42912EE44F8300DDC10F /* EDREMIT 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EF2EE44F8300DDC10F /* EDREMIT 1.jpeg */; };
+		04CE42922EE44F8300DDC10F /* 2 bedroom penthouse pool view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420A2EE44F8300DDC10F /* 2 bedroom penthouse pool view.jpg */; };
+		04CE42932EE44F8300DDC10F /* VILLA BEDROOM 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42422EE44F8300DDC10F /* VILLA BEDROOM 1.jpg */; };
+		04CE42942EE44F8300DDC10F /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DF2EE44F8300DDC10F /* 3.jpg */; };
+		04CE42952EE44F8300DDC10F /* Edremit 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F22EE44F8300DDC10F /* Edremit 4.jpeg */; };
+		04CE42962EE44F8300DDC10F /* 5+1 Villa.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C32EE44F8300DDC10F /* 5+1 Villa.jpeg */; };
+		04CE42972EE44F8300DDC10F /* SANDY BEACH.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D92EE44F8300DDC10F /* SANDY BEACH.jpg */; };
+		04CE42982EE44F8300DDC10F /* Phuket1 Site.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423A2EE44F8300DDC10F /* Phuket1 Site.jpg */; };
+		04CE42992EE44F8300DDC10F /* 0871.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F62EE44F8300DDC10F /* 0871.origRGB.jpg */; };
+		04CE429A2EE44F8300DDC10F /* ECOHouse Bedroom 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421E2EE44F8300DDC10F /* ECOHouse Bedroom 4.jpg */; };
+		04CE429B2EE44F8300DDC10F /* 5+1 Villa Phase 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C42EE44F8300DDC10F /* 5+1 Villa Phase 1.jpeg */; };
+		04CE429C2EE44F8300DDC10F /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E02EE44F8300DDC10F /* 4.jpg */; };
+		04CE429D2EE44F8300DDC10F /* EDREMIT MAP.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F42EE44F8300DDC10F /* EDREMIT MAP.jpg */; };
+		04CE429E2EE44F8300DDC10F /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E12EE44F8300DDC10F /* 5.jpg */; };
+		04CE429F2EE44F8300DDC10F /* 19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41ED2EE44F8300DDC10F /* 19.jpg */; };
+		04CE42A02EE44F8300DDC10F /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E52EE44F8300DDC10F /* 9.jpg */; };
+		04CE42A12EE44F8300DDC10F /* PHU1 NIGHT3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422D2EE44F8300DDC10F /* PHU1 NIGHT3.jpg */; };
+		04CE42A22EE44F8300DDC10F /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E62EE44F8300DDC10F /* 10.jpg */; };
+		04CE42A32EE44F8300DDC10F /* 20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EE2EE44F8300DDC10F /* 20.jpg */; };
+		04CE42A42EE44F8300DDC10F /* EDREMIT 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F02EE44F8300DDC10F /* EDREMIT 2.jpeg */; };
+		04CE42A52EE44F8300DDC10F /* cam23.RGB_color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42042EE44F8300DDC10F /* cam23.RGB_color.jpg */; };
+		04CE42A62EE44F8300DDC10F /* cam4.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FB2EE44F8300DDC10F /* cam4.origRGB.jpg */; };
+		04CE42A72EE44F8300DDC10F /* cam11.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FF2EE44F8300DDC10F /* cam11.origRGB.jpg */; };
+		04CE42A82EE44F8300DDC10F /* cam22.RGB_color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42032EE44F8300DDC10F /* cam22.RGB_color.jpg */; };
+		04CE42A92EE44F8300DDC10F /* 2+1 DAY.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420E2EE44F8300DDC10F /* 2+1 DAY.jpg */; };
+		04CE42AA2EE44F8300DDC10F /* PHU1 VILLA Interior1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42312EE44F8300DDC10F /* PHU1 VILLA Interior1.jpg */; };
+		04CE42AB2EE44F8300DDC10F /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DE2EE44F8300DDC10F /* 2.jpg */; };
+		04CE42AC2EE44F8300DDC10F /* 22 APRIL PHUKET 1 1.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42162EE44F8300DDC10F /* 22 APRIL PHUKET 1 1.1.jpg */; };
+		04CE42AD2EE44F8300DDC10F /* PHU1 VILLA.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42302EE44F8300DDC10F /* PHU1 VILLA.jpg */; };
+		04CE42AE2EE44F8300DDC10F /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E32EE44F8300DDC10F /* 7.jpg */; };
+		04CE42AF2EE44F8300DDC10F /* 15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E92EE44F8300DDC10F /* 15.jpg */; };
+		04CE42B02EE44F8300DDC10F /* PHASE 1 A BLOCK POOL VIEW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CC2EE44F8300DDC10F /* PHASE 1 A BLOCK POOL VIEW.jpg */; };
+		04CE42B12EE44F8300DDC10F /* Garden apartment 2+1 pool view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42262EE44F8300DDC10F /* Garden apartment 2+1 pool view.jpg */; };
+		04CE42B22EE44F8300DDC10F /* Entrance Day.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42252EE44F8300DDC10F /* Entrance Day.jpg */; };
+		04CE42B32EE44F8300DDC10F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42082EE44F8300DDC10F /* 1.jpg */; };
+		04CE42B42EE44F8300DDC10F /* Phuket Phase 1 Site Plan Crop.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42392EE44F8300DDC10F /* Phuket Phase 1 Site Plan Crop.png */; };
+		04CE42B52EE44F8300DDC10F /* cam2.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FA2EE44F8300DDC10F /* cam2.origRGB.jpg */; };
+		04CE42B62EE44F8300DDC10F /* PHASE 1 WATER SHOW A BLOCKS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CE2EE44F8300DDC10F /* PHASE 1 WATER SHOW A BLOCKS.jpg */; };
+		04CE42B72EE44F8300DDC10F /* Phase 1 garden view entrance.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422A2EE44F8300DDC10F /* Phase 1 garden view entrance.jpg */; };
+		04CE42B82EE44F8300DDC10F /* 0899.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F82EE44F8300DDC10F /* 0899.origRGB.jpg */; };
+		04CE42B92EE44F8300DDC10F /* 16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EA2EE44F8300DDC10F /* 16.jpg */; };
+		04CE42BA2EE44F8300DDC10F /* 2+1 NIGHT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42112EE44F8300DDC10F /* 2+1 NIGHT.jpg */; };
+		04CE42BB2EE44F8300DDC10F /* Villa 5+1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DB2EE44F8300DDC10F /* Villa 5+1.jpeg */; };
+		04CE42BC2EE44F8300DDC10F /* cam19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42022EE44F8300DDC10F /* cam19.jpg */; };
+		04CE42BD2EE44F8300DDC10F /* Phuket Phase 1 Site Plan.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42372EE44F8300DDC10F /* Phuket Phase 1 Site Plan.png */; };
+		04CE42BE2EE44F8300DDC10F /* 3 MAY PHUKET 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42142EE44F8300DDC10F /* 3 MAY PHUKET 1.jpg */; };
+		04CE42BF2EE44F8300DDC10F /* ECOHouse Entrance.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42242EE44F8300DDC10F /* ECOHouse Entrance.jpg */; };
+		04CE42C02EE44F8300DDC10F /* Night sky view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42292EE44F8300DDC10F /* Night sky view.jpg */; };
+		04CE42C12EE44F8300DDC10F /* PHUKET Phase 1 Site Plan 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42382EE44F8300DDC10F /* PHUKET Phase 1 Site Plan 2.jpg */; };
+		04CE42C22EE44F8300DDC10F /* PHU1 VILLA1.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42332EE44F8300DDC10F /* PHU1 VILLA1.1.jpg */; };
+		04CE42C32EE44F8300DDC10F /* ECOHouse Bedroom 6.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42232EE44F8300DDC10F /* ECOHouse Bedroom 6.1.jpg */; };
+		04CE42C42EE44F8300DDC10F /* private pool and communal pool view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42402EE44F8300DDC10F /* private pool and communal pool view.jpg */; };
+		04CE42C52EE44F8300DDC10F /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42132EE44F8300DDC10F /* 3.jpg */; };
+		04CE42C62EE44F8300DDC10F /* 18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EC2EE44F8300DDC10F /* 18.jpg */; };
+		04CE42C72EE44F8300DDC10F /* Villa Sand1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42442EE44F8300DDC10F /* Villa Sand1.jpg */; };
+		04CE42C82EE44F8300DDC10F /* Phase 2 1+1 blocks NIGHT VIEW.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D12EE44F8300DDC10F /* Phase 2 1+1 blocks NIGHT VIEW.png */; };
+		04CE42C92EE44F8300DDC10F /* phase 2 A type 1+1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D32EE44F8300DDC10F /* phase 2 A type 1+1.jpg */; };
+		04CE42CA2EE44F8300DDC10F /* cam5.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FC2EE44F8300DDC10F /* cam5.origRGB.jpg */; };
+		04CE42CB2EE44F8300DDC10F /* night site view 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42282EE44F8300DDC10F /* night site view 2.jpg */; };
+		04CE43502EE44F8300DDC10F /* cam9.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FE2EE44F8300DDC10F /* cam9.origRGB.jpg */; };
+		04CE43512EE44F8300DDC10F /* 2+1 BEDROOM 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420C2EE44F8300DDC10F /* 2+1 BEDROOM 2.jpg */; };
+		04CE43522EE44F8300DDC10F /* Edremit 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F12EE44F8300DDC10F /* Edremit 3.jpeg */; };
+		04CE43532EE44F8300DDC10F /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E72EE44F8300DDC10F /* 11.jpg */; };
+		04CE43542EE44F8300DDC10F /* ECOHouse Bedroom 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42222EE44F8300DDC10F /* ECOHouse Bedroom 6.jpg */; };
+		04CE43552EE44F8300DDC10F /* A block phase 1 (1+1) .jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C72EE44F8300DDC10F /* A block phase 1 (1+1) .jpg */; };
+		04CE43562EE44F8300DDC10F /* PHU1 NIGHT2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422C2EE44F8300DDC10F /* PHU1 NIGHT2.jpg */; };
+		04CE43572EE44F8300DDC10F /* 0898.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F72EE44F8300DDC10F /* 0898.origRGB.jpg */; };
+		04CE43582EE44F8300DDC10F /* PHUKET 1 MAY 22 - 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42352EE44F8300DDC10F /* PHUKET 1 MAY 22 - 2.jpg */; };
+		04CE43592EE44F8300DDC10F /* ECOHouse Bedroom 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42202EE44F8300DDC10F /* ECOHouse Bedroom 5.jpg */; };
+		04CE435A2EE44F8300DDC10F /* total site night view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42412EE44F8300DDC10F /* total site night view.jpg */; };
+		04CE435B2EE44F8300DDC10F /* 2+1 BEDROOM 2.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420D2EE44F8300DDC10F /* 2+1 BEDROOM 2.1.jpg */; };
+		04CE435C2EE44F8300DDC10F /* 1+1 block front profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C02EE44F8300DDC10F /* 1+1 block front profile.jpeg */; };
+		04CE435D2EE44F8300DDC10F /* 5+1 Villa view.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C52EE44F8300DDC10F /* 5+1 Villa view.jpeg */; };
+		04CE435E2EE44F8300DDC10F /* ECOHouse Bedroom 4.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421F2EE44F8300DDC10F /* ECOHouse Bedroom 4.1.jpg */; };
+		04CE435F2EE44F8300DDC10F /* BeachDeck1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42182EE44F8300DDC10F /* BeachDeck1.jpg */; };
+		04CE43602EE44F8300DDC10F /* SKY VIEW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DA2EE44F8300DDC10F /* SKY VIEW.jpg */; };
+		04CE43612EE44F8300DDC10F /* cam15.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42002EE44F8300DDC10F /* cam15.origRGB.jpg */; };
+		04CE43622EE44F8300DDC10F /* gece cam1.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42052EE44F8300DDC10F /* gece cam1.origRGB.jpg */; };
+		04CE43632EE44F8300DDC10F /* night site view 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42272EE44F8300DDC10F /* night site view 1.jpg */; };
+		04CE43642EE44F8300DDC10F /* cam6.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FD2EE44F8300DDC10F /* cam6.origRGB.jpg */; };
+		04CE43652EE44F8300DDC10F /* PHU1 VILLA KARE PINTEREST.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42322EE44F8300DDC10F /* PHU1 VILLA KARE PINTEREST.jpg */; };
+		04CE43662EE44F8300DDC10F /* 2+1 Interior 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42102EE44F8300DDC10F /* 2+1 Interior 2.jpg */; };
+		04CE43672EE44F8300DDC10F /* PHASE 2 A BLOCK.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D22EE44F8300DDC10F /* PHASE 2 A BLOCK.jpg */; };
+		04CE43682EE44F8300DDC10F /* 4 DEC 2+1 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42152EE44F8300DDC10F /* 4 DEC 2+1 1.jpg */; };
+		04CE43692EE44F8300DDC10F /* cam18.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42012EE44F8300DDC10F /* cam18.origRGB.jpg */; };
+		04CE436A2EE44F8300DDC10F /* RESTAURANT POOL AND VILLAS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D82EE44F8300DDC10F /* RESTAURANT POOL AND VILLAS.jpg */; };
+		04CE436B2EE44F8300DDC10F /* ECOHouse Bedroom 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421D2EE44F8300DDC10F /* ECOHouse Bedroom 3.jpg */; };
+		04CE436C2EE44F8300DDC10F /* Phuket1 Site 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423D2EE44F8300DDC10F /* Phuket1 Site 4.jpg */; };
+		04CE436D2EE44F8300DDC10F /* RESTAURANT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D72EE44F8300DDC10F /* RESTAURANT.jpg */; };
+		04CE436E2EE44F8300DDC10F /* Phase 2 1+1 blocks .png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D02EE44F8300DDC10F /* Phase 2 1+1 blocks .png */; };
+		04CE436F2EE44F8300DDC10F /* ECOHouse Bedroom 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421A2EE44F8300DDC10F /* ECOHouse Bedroom 1.jpg */; };
+		04CE43702EE44F8300DDC10F /* cam1.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F92EE44F8300DDC10F /* cam1.origRGB.jpg */; };
+		04CE43712EE44F8300DDC10F /* Phase 2 1+1 blocks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CF2EE44F8300DDC10F /* Phase 2 1+1 blocks.jpg */; };
+		04CE43722EE44F8300DDC10F /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E22EE44F8300DDC10F /* 6.jpg */; };
+		04CE43732EE44F8300DDC10F /* PHU1 NIGHT5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422F2EE44F8300DDC10F /* PHU1 NIGHT5.jpg */; };
+		04CE43742EE44F8300DDC10F /* 2+1 Sun SET.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42122EE44F8300DDC10F /* 2+1 Sun SET.jpg */; };
+		04CE43752EE44F8300DDC10F /* east side night.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42192EE44F8300DDC10F /* east side night.jpg */; };
+		04CE43762EE44F8300DDC10F /* 23 APRIL PHUKET 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42172EE44F8300DDC10F /* 23 APRIL PHUKET 1.jpg */; };
+		04CE43772EE44F8300DDC10F /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E42EE44F8300DDC10F /* 8.jpg */; };
+		04CE43782EE44F8300DDC10F /* Fountains in Phase 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C92EE44F8300DDC10F /* Fountains in Phase 1.jpg */; };
+		04CE43792EE44F8300DDC10F /* Edremit 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F32EE44F8300DDC10F /* Edremit 5.jpeg */; };
+		04CE437A2EE44F8300DDC10F /* 1+1 phase 1 blocks A type.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C12EE44F8300DDC10F /* 1+1 phase 1 blocks A type.jpeg */; };
+		04CE437B2EE44F8300DDC10F /* 1+1 phase 2 blocks.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C22EE44F8300DDC10F /* 1+1 phase 2 blocks.jpeg */; };
+		04CE437C2EE44F8300DDC10F /* ECOHouse Bedroom 2.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421C2EE44F8300DDC10F /* ECOHouse Bedroom 2.1.jpg */; };
+		04CE437D2EE44F8300DDC10F /* VILLA MASTER BEDROOM.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42432EE44F8300DDC10F /* VILLA MASTER BEDROOM.jpg */; };
+		04CE437E2EE44F8300DDC10F /* Night 18 September 3 - LOGOSUZ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CA2EE44F8300DDC10F /* Night 18 September 3 - LOGOSUZ.jpg */; };
+		04CE437F2EE44F8300DDC10F /* Phuket1 Site 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423C2EE44F8300DDC10F /* Phuket1 Site 3.jpg */; };
+		04CE43802EE44F8300DDC10F /* PHASE 2 B BLOCKS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D62EE44F8300DDC10F /* PHASE 2 B BLOCKS.jpg */; };
+		04CE43812EE44F8300DDC10F /* Phuket1 Site 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423E2EE44F8300DDC10F /* Phuket1 Site 5.jpg */; };
+		04CE43822EE44F8300DDC10F /* private pool 2+1 front view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423F2EE44F8300DDC10F /* private pool 2+1 front view.jpg */; };
+		04CE43832EE44F8300DDC10F /* Aloha 6 september Sun-Set.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C82EE44F8300DDC10F /* Aloha 6 september Sun-Set.png */; };
+		04CE43842EE44F8300DDC10F /* PHUKET1 SITE 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423B2EE44F8300DDC10F /* PHUKET1 SITE 2.jpg */; };
+		04CE43852EE44F8300DDC10F /* PHASE 1 3 BEDROOM VILLAS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CB2EE44F8300DDC10F /* PHASE 1 3 BEDROOM VILLAS.jpg */; };
+		04CE43862EE44F8300DDC10F /* PHU1 NIGHT4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422E2EE44F8300DDC10F /* PHU1 NIGHT4.jpg */; };
+		04CE43872EE44F8300DDC10F /* PHASE 1 SEA SIDE.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CD2EE44F8300DDC10F /* PHASE 1 SEA SIDE.jpg */; };
+		04CE43882EE44F8300DDC10F /* PHU1 NIGHT1 KARE PİNTEREST.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422B2EE44F8300DDC10F /* PHU1 NIGHT1 KARE PİNTEREST.jpg */; };
+		04CE43892EE44F8300DDC10F /* west side.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42452EE44F8300DDC10F /* west side.jpg */; };
+		04CE438A2EE44F8300DDC10F /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42092EE44F8300DDC10F /* 2.jpg */; };
+		04CE438B2EE44F8300DDC10F /* PHASE 2 B BLOCK.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D42EE44F8300DDC10F /* PHASE 2 B BLOCK.jpg */; };
+		04CE438C2EE44F8300DDC10F /* 13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E82EE44F8300DDC10F /* 13.jpg */; };
+		04CE438D2EE44F8300DDC10F /* 2+1 BEDROOM.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420B2EE44F8300DDC10F /* 2+1 BEDROOM.jpg */; };
+		04CE438E2EE44F8300DDC10F /* gece cam9.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42062EE44F8300DDC10F /* gece cam9.origRGB.jpg */; };
+		04CE438F2EE44F8300DDC10F /* PHU1 VILLA1.2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42342EE44F8300DDC10F /* PHU1 VILLA1.2.jpg */; };
+		04CE43902EE44F8300DDC10F /* A BLOCK CORNER APARTMENTS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C62EE44F8300DDC10F /* A BLOCK CORNER APARTMENTS.jpg */; };
+		04CE43912EE44F8300DDC10F /* ECOHouse Bedroom 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421B2EE44F8300DDC10F /* ECOHouse Bedroom 2.jpg */; };
+		04CE43922EE44F8300DDC10F /* PHASE 2 B BLOCK VIEW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D52EE44F8300DDC10F /* PHASE 2 B BLOCK VIEW.jpg */; };
+		04CE43932EE44F8300DDC10F /* 2+1 Interior 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420F2EE44F8300DDC10F /* 2+1 Interior 1.jpg */; };
+		04CE43942EE44F8300DDC10F /* 1+1 35M2 PHASE 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41BF2EE44F8300DDC10F /* 1+1 35M2 PHASE 1.jpeg */; };
+		04CE43952EE44F8300DDC10F /* PHUKET Phase 1 SITE 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42362EE44F8300DDC10F /* PHUKET Phase 1 SITE 2.jpg */; };
+		04CE43962EE44F8300DDC10F /* 17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EB2EE44F8300DDC10F /* 17.jpg */; };
+		04CE43972EE44F8300DDC10F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DD2EE44F8300DDC10F /* 1.jpg */; };
+		04CE43982EE44F8300DDC10F /* ECOHouse Bedroom 5.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42212EE44F8300DDC10F /* ECOHouse Bedroom 5.1.jpg */; };
+		04CE43992EE44F8300DDC10F /* EDREMIT 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EF2EE44F8300DDC10F /* EDREMIT 1.jpeg */; };
+		04CE439A2EE44F8300DDC10F /* 2 bedroom penthouse pool view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420A2EE44F8300DDC10F /* 2 bedroom penthouse pool view.jpg */; };
+		04CE439B2EE44F8300DDC10F /* VILLA BEDROOM 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42422EE44F8300DDC10F /* VILLA BEDROOM 1.jpg */; };
+		04CE439C2EE44F8300DDC10F /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DF2EE44F8300DDC10F /* 3.jpg */; };
+		04CE439D2EE44F8300DDC10F /* Edremit 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F22EE44F8300DDC10F /* Edremit 4.jpeg */; };
+		04CE439E2EE44F8300DDC10F /* 5+1 Villa.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C32EE44F8300DDC10F /* 5+1 Villa.jpeg */; };
+		04CE439F2EE44F8300DDC10F /* SANDY BEACH.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D92EE44F8300DDC10F /* SANDY BEACH.jpg */; };
+		04CE43A02EE44F8300DDC10F /* Phuket1 Site.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE423A2EE44F8300DDC10F /* Phuket1 Site.jpg */; };
+		04CE43A12EE44F8300DDC10F /* 0871.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F62EE44F8300DDC10F /* 0871.origRGB.jpg */; };
+		04CE43A22EE44F8300DDC10F /* ECOHouse Bedroom 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE421E2EE44F8300DDC10F /* ECOHouse Bedroom 4.jpg */; };
+		04CE43A32EE44F8300DDC10F /* 5+1 Villa Phase 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41C42EE44F8300DDC10F /* 5+1 Villa Phase 1.jpeg */; };
+		04CE43A42EE44F8300DDC10F /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E02EE44F8300DDC10F /* 4.jpg */; };
+		04CE43A52EE44F8300DDC10F /* EDREMIT MAP.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F42EE44F8300DDC10F /* EDREMIT MAP.jpg */; };
+		04CE43A62EE44F8300DDC10F /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E12EE44F8300DDC10F /* 5.jpg */; };
+		04CE43A72EE44F8300DDC10F /* 19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41ED2EE44F8300DDC10F /* 19.jpg */; };
+		04CE43A82EE44F8300DDC10F /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E52EE44F8300DDC10F /* 9.jpg */; };
+		04CE43A92EE44F8300DDC10F /* PHU1 NIGHT3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422D2EE44F8300DDC10F /* PHU1 NIGHT3.jpg */; };
+		04CE43AA2EE44F8300DDC10F /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E62EE44F8300DDC10F /* 10.jpg */; };
+		04CE43AB2EE44F8300DDC10F /* 20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EE2EE44F8300DDC10F /* 20.jpg */; };
+		04CE43AC2EE44F8300DDC10F /* EDREMIT 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F02EE44F8300DDC10F /* EDREMIT 2.jpeg */; };
+		04CE43AD2EE44F8300DDC10F /* cam23.RGB_color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42042EE44F8300DDC10F /* cam23.RGB_color.jpg */; };
+		04CE43AE2EE44F8300DDC10F /* cam4.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FB2EE44F8300DDC10F /* cam4.origRGB.jpg */; };
+		04CE43AF2EE44F8300DDC10F /* cam11.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FF2EE44F8300DDC10F /* cam11.origRGB.jpg */; };
+		04CE43B02EE44F8300DDC10F /* cam22.RGB_color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42032EE44F8300DDC10F /* cam22.RGB_color.jpg */; };
+		04CE43B12EE44F8300DDC10F /* 2+1 DAY.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE420E2EE44F8300DDC10F /* 2+1 DAY.jpg */; };
+		04CE43B22EE44F8300DDC10F /* PHU1 VILLA Interior1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42312EE44F8300DDC10F /* PHU1 VILLA Interior1.jpg */; };
+		04CE43B32EE44F8300DDC10F /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DE2EE44F8300DDC10F /* 2.jpg */; };
+		04CE43B42EE44F8300DDC10F /* 22 APRIL PHUKET 1 1.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42162EE44F8300DDC10F /* 22 APRIL PHUKET 1 1.1.jpg */; };
+		04CE43B52EE44F8300DDC10F /* PHU1 VILLA.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42302EE44F8300DDC10F /* PHU1 VILLA.jpg */; };
+		04CE43B62EE44F8300DDC10F /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E32EE44F8300DDC10F /* 7.jpg */; };
+		04CE43B72EE44F8300DDC10F /* 15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41E92EE44F8300DDC10F /* 15.jpg */; };
+		04CE43B82EE44F8300DDC10F /* PHASE 1 A BLOCK POOL VIEW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CC2EE44F8300DDC10F /* PHASE 1 A BLOCK POOL VIEW.jpg */; };
+		04CE43B92EE44F8300DDC10F /* Garden apartment 2+1 pool view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42262EE44F8300DDC10F /* Garden apartment 2+1 pool view.jpg */; };
+		04CE43BA2EE44F8300DDC10F /* Entrance Day.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42252EE44F8300DDC10F /* Entrance Day.jpg */; };
+		04CE43BB2EE44F8300DDC10F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42082EE44F8300DDC10F /* 1.jpg */; };
+		04CE43BC2EE44F8300DDC10F /* Phuket Phase 1 Site Plan Crop.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42392EE44F8300DDC10F /* Phuket Phase 1 Site Plan Crop.png */; };
+		04CE43BD2EE44F8300DDC10F /* cam2.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FA2EE44F8300DDC10F /* cam2.origRGB.jpg */; };
+		04CE43BE2EE44F8300DDC10F /* PHASE 1 WATER SHOW A BLOCKS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41CE2EE44F8300DDC10F /* PHASE 1 WATER SHOW A BLOCKS.jpg */; };
+		04CE43BF2EE44F8300DDC10F /* Phase 1 garden view entrance.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE422A2EE44F8300DDC10F /* Phase 1 garden view entrance.jpg */; };
+		04CE43C02EE44F8300DDC10F /* 0899.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41F82EE44F8300DDC10F /* 0899.origRGB.jpg */; };
+		04CE43C12EE44F8300DDC10F /* 16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EA2EE44F8300DDC10F /* 16.jpg */; };
+		04CE43C22EE44F8300DDC10F /* 2+1 NIGHT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42112EE44F8300DDC10F /* 2+1 NIGHT.jpg */; };
+		04CE43C32EE44F8300DDC10F /* Villa 5+1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41DB2EE44F8300DDC10F /* Villa 5+1.jpeg */; };
+		04CE43C42EE44F8300DDC10F /* cam19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42022EE44F8300DDC10F /* cam19.jpg */; };
+		04CE43C52EE44F8300DDC10F /* Phuket Phase 1 Site Plan.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42372EE44F8300DDC10F /* Phuket Phase 1 Site Plan.png */; };
+		04CE43C62EE44F8300DDC10F /* 3 MAY PHUKET 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42142EE44F8300DDC10F /* 3 MAY PHUKET 1.jpg */; };
+		04CE43C72EE44F8300DDC10F /* ECOHouse Entrance.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42242EE44F8300DDC10F /* ECOHouse Entrance.jpg */; };
+		04CE43C82EE44F8300DDC10F /* Night sky view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42292EE44F8300DDC10F /* Night sky view.jpg */; };
+		04CE43C92EE44F8300DDC10F /* PHUKET Phase 1 Site Plan 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42382EE44F8300DDC10F /* PHUKET Phase 1 Site Plan 2.jpg */; };
+		04CE43CA2EE44F8300DDC10F /* PHU1 VILLA1.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42332EE44F8300DDC10F /* PHU1 VILLA1.1.jpg */; };
+		04CE43CB2EE44F8300DDC10F /* ECOHouse Bedroom 6.1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42232EE44F8300DDC10F /* ECOHouse Bedroom 6.1.jpg */; };
+		04CE43CC2EE44F8300DDC10F /* private pool and communal pool view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42402EE44F8300DDC10F /* private pool and communal pool view.jpg */; };
+		04CE43CD2EE44F8300DDC10F /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42132EE44F8300DDC10F /* 3.jpg */; };
+		04CE43CE2EE44F8300DDC10F /* 18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41EC2EE44F8300DDC10F /* 18.jpg */; };
+		04CE43CF2EE44F8300DDC10F /* Villa Sand1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42442EE44F8300DDC10F /* Villa Sand1.jpg */; };
+		04CE43D02EE44F8300DDC10F /* Phase 2 1+1 blocks NIGHT VIEW.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D12EE44F8300DDC10F /* Phase 2 1+1 blocks NIGHT VIEW.png */; };
+		04CE43D12EE44F8300DDC10F /* phase 2 A type 1+1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41D32EE44F8300DDC10F /* phase 2 A type 1+1.jpg */; };
+		04CE43D22EE44F8300DDC10F /* cam5.origRGB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE41FC2EE44F8300DDC10F /* cam5.origRGB.jpg */; };
+		04CE43D32EE44F8300DDC10F /* night site view 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CE42282EE44F8300DDC10F /* night site view 2.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		04CE41882EE4300900DDC10F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04CE416D2EE4300700DDC10F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04CE41742EE4300700DDC10F;
+			remoteInfo = hackMobile;
+		};
+		04CE41922EE4300900DDC10F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04CE416D2EE4300700DDC10F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04CE41742EE4300700DDC10F;
+			remoteInfo = hackMobile;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		047C07CB2EE4C8F700BAB298 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = Localizable.strings; sourceTree = "<group>"; };
+		047C07CE2EE4C92000BAB298 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = Localizable.strings; sourceTree = "<group>"; };
+		047C08812EE4D92000BAB298 /* ref_cico 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "ref_cico 2.wav"; sourceTree = "<group>"; };
+		04CE41752EE4300700DDC10F /* hackMobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hackMobile.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04CE41872EE4300900DDC10F /* hackMobileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hackMobileTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04CE41912EE4300900DDC10F /* hackMobileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hackMobileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04CE41BF2EE44F8300DDC10F /* 1+1 35M2 PHASE 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1+1 35M2 PHASE 1.jpeg"; sourceTree = "<group>"; };
+		04CE41C02EE44F8300DDC10F /* 1+1 block front profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1+1 block front profile.jpeg"; sourceTree = "<group>"; };
+		04CE41C12EE44F8300DDC10F /* 1+1 phase 1 blocks A type.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1+1 phase 1 blocks A type.jpeg"; sourceTree = "<group>"; };
+		04CE41C22EE44F8300DDC10F /* 1+1 phase 2 blocks.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1+1 phase 2 blocks.jpeg"; sourceTree = "<group>"; };
+		04CE41C32EE44F8300DDC10F /* 5+1 Villa.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "5+1 Villa.jpeg"; sourceTree = "<group>"; };
+		04CE41C42EE44F8300DDC10F /* 5+1 Villa Phase 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "5+1 Villa Phase 1.jpeg"; sourceTree = "<group>"; };
+		04CE41C52EE44F8300DDC10F /* 5+1 Villa view.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "5+1 Villa view.jpeg"; sourceTree = "<group>"; };
+		04CE41C62EE44F8300DDC10F /* A BLOCK CORNER APARTMENTS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "A BLOCK CORNER APARTMENTS.jpg"; sourceTree = "<group>"; };
+		04CE41C72EE44F8300DDC10F /* A block phase 1 (1+1) .jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "A block phase 1 (1+1) .jpg"; sourceTree = "<group>"; };
+		04CE41C82EE44F8300DDC10F /* Aloha 6 september Sun-Set.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Aloha 6 september Sun-Set.png"; sourceTree = "<group>"; };
+		04CE41C92EE44F8300DDC10F /* Fountains in Phase 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fountains in Phase 1.jpg"; sourceTree = "<group>"; };
+		04CE41CA2EE44F8300DDC10F /* Night 18 September 3 - LOGOSUZ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Night 18 September 3 - LOGOSUZ.jpg"; sourceTree = "<group>"; };
+		04CE41CB2EE44F8300DDC10F /* PHASE 1 3 BEDROOM VILLAS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHASE 1 3 BEDROOM VILLAS.jpg"; sourceTree = "<group>"; };
+		04CE41CC2EE44F8300DDC10F /* PHASE 1 A BLOCK POOL VIEW.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHASE 1 A BLOCK POOL VIEW.jpg"; sourceTree = "<group>"; };
+		04CE41CD2EE44F8300DDC10F /* PHASE 1 SEA SIDE.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHASE 1 SEA SIDE.jpg"; sourceTree = "<group>"; };
+		04CE41CE2EE44F8300DDC10F /* PHASE 1 WATER SHOW A BLOCKS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHASE 1 WATER SHOW A BLOCKS.jpg"; sourceTree = "<group>"; };
+		04CE41CF2EE44F8300DDC10F /* Phase 2 1+1 blocks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Phase 2 1+1 blocks.jpg"; sourceTree = "<group>"; };
+		04CE41D02EE44F8300DDC10F /* Phase 2 1+1 blocks .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Phase 2 1+1 blocks .png"; sourceTree = "<group>"; };
+		04CE41D12EE44F8300DDC10F /* Phase 2 1+1 blocks NIGHT VIEW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Phase 2 1+1 blocks NIGHT VIEW.png"; sourceTree = "<group>"; };
+		04CE41D22EE44F8300DDC10F /* PHASE 2 A BLOCK.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHASE 2 A BLOCK.jpg"; sourceTree = "<group>"; };
+		04CE41D32EE44F8300DDC10F /* phase 2 A type 1+1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "phase 2 A type 1+1.jpg"; sourceTree = "<group>"; };
+		04CE41D42EE44F8300DDC10F /* PHASE 2 B BLOCK.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHASE 2 B BLOCK.jpg"; sourceTree = "<group>"; };
+		04CE41D52EE44F8300DDC10F /* PHASE 2 B BLOCK VIEW.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHASE 2 B BLOCK VIEW.jpg"; sourceTree = "<group>"; };
+		04CE41D62EE44F8300DDC10F /* PHASE 2 B BLOCKS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHASE 2 B BLOCKS.jpg"; sourceTree = "<group>"; };
+		04CE41D72EE44F8300DDC10F /* RESTAURANT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = RESTAURANT.jpg; sourceTree = "<group>"; };
+		04CE41D82EE44F8300DDC10F /* RESTAURANT POOL AND VILLAS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "RESTAURANT POOL AND VILLAS.jpg"; sourceTree = "<group>"; };
+		04CE41D92EE44F8300DDC10F /* SANDY BEACH.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "SANDY BEACH.jpg"; sourceTree = "<group>"; };
+		04CE41DA2EE44F8300DDC10F /* SKY VIEW.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "SKY VIEW.jpg"; sourceTree = "<group>"; };
+		04CE41DB2EE44F8300DDC10F /* Villa 5+1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Villa 5+1.jpeg"; sourceTree = "<group>"; };
+		04CE41DD2EE44F8300DDC10F /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		04CE41DE2EE44F8300DDC10F /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		04CE41DF2EE44F8300DDC10F /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		04CE41E02EE44F8300DDC10F /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		04CE41E12EE44F8300DDC10F /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		04CE41E22EE44F8300DDC10F /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		04CE41E32EE44F8300DDC10F /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		04CE41E42EE44F8300DDC10F /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		04CE41E52EE44F8300DDC10F /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		04CE41E62EE44F8300DDC10F /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		04CE41E72EE44F8300DDC10F /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		04CE41E82EE44F8300DDC10F /* 13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13.jpg; sourceTree = "<group>"; };
+		04CE41E92EE44F8300DDC10F /* 15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpg; sourceTree = "<group>"; };
+		04CE41EA2EE44F8300DDC10F /* 16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 16.jpg; sourceTree = "<group>"; };
+		04CE41EB2EE44F8300DDC10F /* 17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 17.jpg; sourceTree = "<group>"; };
+		04CE41EC2EE44F8300DDC10F /* 18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18.jpg; sourceTree = "<group>"; };
+		04CE41ED2EE44F8300DDC10F /* 19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 19.jpg; sourceTree = "<group>"; };
+		04CE41EE2EE44F8300DDC10F /* 20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20.jpg; sourceTree = "<group>"; };
+		04CE41EF2EE44F8300DDC10F /* EDREMIT 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "EDREMIT 1.jpeg"; sourceTree = "<group>"; };
+		04CE41F02EE44F8300DDC10F /* EDREMIT 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "EDREMIT 2.jpeg"; sourceTree = "<group>"; };
+		04CE41F12EE44F8300DDC10F /* Edremit 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Edremit 3.jpeg"; sourceTree = "<group>"; };
+		04CE41F22EE44F8300DDC10F /* Edremit 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Edremit 4.jpeg"; sourceTree = "<group>"; };
+		04CE41F32EE44F8300DDC10F /* Edremit 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Edremit 5.jpeg"; sourceTree = "<group>"; };
+		04CE41F42EE44F8300DDC10F /* EDREMIT MAP.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "EDREMIT MAP.jpg"; sourceTree = "<group>"; };
+		04CE41F62EE44F8300DDC10F /* 0871.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0871.origRGB.jpg; sourceTree = "<group>"; };
+		04CE41F72EE44F8300DDC10F /* 0898.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0898.origRGB.jpg; sourceTree = "<group>"; };
+		04CE41F82EE44F8300DDC10F /* 0899.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0899.origRGB.jpg; sourceTree = "<group>"; };
+		04CE41F92EE44F8300DDC10F /* cam1.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam1.origRGB.jpg; sourceTree = "<group>"; };
+		04CE41FA2EE44F8300DDC10F /* cam2.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam2.origRGB.jpg; sourceTree = "<group>"; };
+		04CE41FB2EE44F8300DDC10F /* cam4.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam4.origRGB.jpg; sourceTree = "<group>"; };
+		04CE41FC2EE44F8300DDC10F /* cam5.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam5.origRGB.jpg; sourceTree = "<group>"; };
+		04CE41FD2EE44F8300DDC10F /* cam6.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam6.origRGB.jpg; sourceTree = "<group>"; };
+		04CE41FE2EE44F8300DDC10F /* cam9.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam9.origRGB.jpg; sourceTree = "<group>"; };
+		04CE41FF2EE44F8300DDC10F /* cam11.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam11.origRGB.jpg; sourceTree = "<group>"; };
+		04CE42002EE44F8300DDC10F /* cam15.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam15.origRGB.jpg; sourceTree = "<group>"; };
+		04CE42012EE44F8300DDC10F /* cam18.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam18.origRGB.jpg; sourceTree = "<group>"; };
+		04CE42022EE44F8300DDC10F /* cam19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam19.jpg; sourceTree = "<group>"; };
+		04CE42032EE44F8300DDC10F /* cam22.RGB_color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam22.RGB_color.jpg; sourceTree = "<group>"; };
+		04CE42042EE44F8300DDC10F /* cam23.RGB_color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cam23.RGB_color.jpg; sourceTree = "<group>"; };
+		04CE42052EE44F8300DDC10F /* gece cam1.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gece cam1.origRGB.jpg"; sourceTree = "<group>"; };
+		04CE42062EE44F8300DDC10F /* gece cam9.origRGB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gece cam9.origRGB.jpg"; sourceTree = "<group>"; };
+		04CE42082EE44F8300DDC10F /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		04CE42092EE44F8300DDC10F /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		04CE420A2EE44F8300DDC10F /* 2 bedroom penthouse pool view.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2 bedroom penthouse pool view.jpg"; sourceTree = "<group>"; };
+		04CE420B2EE44F8300DDC10F /* 2+1 BEDROOM.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2+1 BEDROOM.jpg"; sourceTree = "<group>"; };
+		04CE420C2EE44F8300DDC10F /* 2+1 BEDROOM 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2+1 BEDROOM 2.jpg"; sourceTree = "<group>"; };
+		04CE420D2EE44F8300DDC10F /* 2+1 BEDROOM 2.1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2+1 BEDROOM 2.1.jpg"; sourceTree = "<group>"; };
+		04CE420E2EE44F8300DDC10F /* 2+1 DAY.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2+1 DAY.jpg"; sourceTree = "<group>"; };
+		04CE420F2EE44F8300DDC10F /* 2+1 Interior 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2+1 Interior 1.jpg"; sourceTree = "<group>"; };
+		04CE42102EE44F8300DDC10F /* 2+1 Interior 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2+1 Interior 2.jpg"; sourceTree = "<group>"; };
+		04CE42112EE44F8300DDC10F /* 2+1 NIGHT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2+1 NIGHT.jpg"; sourceTree = "<group>"; };
+		04CE42122EE44F8300DDC10F /* 2+1 Sun SET.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2+1 Sun SET.jpg"; sourceTree = "<group>"; };
+		04CE42132EE44F8300DDC10F /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		04CE42142EE44F8300DDC10F /* 3 MAY PHUKET 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "3 MAY PHUKET 1.jpg"; sourceTree = "<group>"; };
+		04CE42152EE44F8300DDC10F /* 4 DEC 2+1 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "4 DEC 2+1 1.jpg"; sourceTree = "<group>"; };
+		04CE42162EE44F8300DDC10F /* 22 APRIL PHUKET 1 1.1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "22 APRIL PHUKET 1 1.1.jpg"; sourceTree = "<group>"; };
+		04CE42172EE44F8300DDC10F /* 23 APRIL PHUKET 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "23 APRIL PHUKET 1.jpg"; sourceTree = "<group>"; };
+		04CE42182EE44F8300DDC10F /* BeachDeck1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BeachDeck1.jpg; sourceTree = "<group>"; };
+		04CE42192EE44F8300DDC10F /* east side night.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "east side night.jpg"; sourceTree = "<group>"; };
+		04CE421A2EE44F8300DDC10F /* ECOHouse Bedroom 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 1.jpg"; sourceTree = "<group>"; };
+		04CE421B2EE44F8300DDC10F /* ECOHouse Bedroom 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 2.jpg"; sourceTree = "<group>"; };
+		04CE421C2EE44F8300DDC10F /* ECOHouse Bedroom 2.1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 2.1.jpg"; sourceTree = "<group>"; };
+		04CE421D2EE44F8300DDC10F /* ECOHouse Bedroom 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 3.jpg"; sourceTree = "<group>"; };
+		04CE421E2EE44F8300DDC10F /* ECOHouse Bedroom 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 4.jpg"; sourceTree = "<group>"; };
+		04CE421F2EE44F8300DDC10F /* ECOHouse Bedroom 4.1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 4.1.jpg"; sourceTree = "<group>"; };
+		04CE42202EE44F8300DDC10F /* ECOHouse Bedroom 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 5.jpg"; sourceTree = "<group>"; };
+		04CE42212EE44F8300DDC10F /* ECOHouse Bedroom 5.1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 5.1.jpg"; sourceTree = "<group>"; };
+		04CE42222EE44F8300DDC10F /* ECOHouse Bedroom 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 6.jpg"; sourceTree = "<group>"; };
+		04CE42232EE44F8300DDC10F /* ECOHouse Bedroom 6.1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Bedroom 6.1.jpg"; sourceTree = "<group>"; };
+		04CE42242EE44F8300DDC10F /* ECOHouse Entrance.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ECOHouse Entrance.jpg"; sourceTree = "<group>"; };
+		04CE42252EE44F8300DDC10F /* Entrance Day.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Entrance Day.jpg"; sourceTree = "<group>"; };
+		04CE42262EE44F8300DDC10F /* Garden apartment 2+1 pool view.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Garden apartment 2+1 pool view.jpg"; sourceTree = "<group>"; };
+		04CE42272EE44F8300DDC10F /* night site view 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "night site view 1.jpg"; sourceTree = "<group>"; };
+		04CE42282EE44F8300DDC10F /* night site view 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "night site view 2.jpg"; sourceTree = "<group>"; };
+		04CE42292EE44F8300DDC10F /* Night sky view.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Night sky view.jpg"; sourceTree = "<group>"; };
+		04CE422A2EE44F8300DDC10F /* Phase 1 garden view entrance.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Phase 1 garden view entrance.jpg"; sourceTree = "<group>"; };
+		04CE422B2EE44F8300DDC10F /* PHU1 NIGHT1 KARE PİNTEREST.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 NIGHT1 KARE PİNTEREST.jpg"; sourceTree = "<group>"; };
+		04CE422C2EE44F8300DDC10F /* PHU1 NIGHT2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 NIGHT2.jpg"; sourceTree = "<group>"; };
+		04CE422D2EE44F8300DDC10F /* PHU1 NIGHT3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 NIGHT3.jpg"; sourceTree = "<group>"; };
+		04CE422E2EE44F8300DDC10F /* PHU1 NIGHT4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 NIGHT4.jpg"; sourceTree = "<group>"; };
+		04CE422F2EE44F8300DDC10F /* PHU1 NIGHT5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 NIGHT5.jpg"; sourceTree = "<group>"; };
+		04CE42302EE44F8300DDC10F /* PHU1 VILLA.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 VILLA.jpg"; sourceTree = "<group>"; };
+		04CE42312EE44F8300DDC10F /* PHU1 VILLA Interior1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 VILLA Interior1.jpg"; sourceTree = "<group>"; };
+		04CE42322EE44F8300DDC10F /* PHU1 VILLA KARE PINTEREST.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 VILLA KARE PINTEREST.jpg"; sourceTree = "<group>"; };
+		04CE42332EE44F8300DDC10F /* PHU1 VILLA1.1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 VILLA1.1.jpg"; sourceTree = "<group>"; };
+		04CE42342EE44F8300DDC10F /* PHU1 VILLA1.2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHU1 VILLA1.2.jpg"; sourceTree = "<group>"; };
+		04CE42352EE44F8300DDC10F /* PHUKET 1 MAY 22 - 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHUKET 1 MAY 22 - 2.jpg"; sourceTree = "<group>"; };
+		04CE42362EE44F8300DDC10F /* PHUKET Phase 1 SITE 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHUKET Phase 1 SITE 2.jpg"; sourceTree = "<group>"; };
+		04CE42372EE44F8300DDC10F /* Phuket Phase 1 Site Plan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Phuket Phase 1 Site Plan.png"; sourceTree = "<group>"; };
+		04CE42382EE44F8300DDC10F /* PHUKET Phase 1 Site Plan 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHUKET Phase 1 Site Plan 2.jpg"; sourceTree = "<group>"; };
+		04CE42392EE44F8300DDC10F /* Phuket Phase 1 Site Plan Crop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Phuket Phase 1 Site Plan Crop.png"; sourceTree = "<group>"; };
+		04CE423A2EE44F8300DDC10F /* Phuket1 Site.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Phuket1 Site.jpg"; sourceTree = "<group>"; };
+		04CE423B2EE44F8300DDC10F /* PHUKET1 SITE 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "PHUKET1 SITE 2.jpg"; sourceTree = "<group>"; };
+		04CE423C2EE44F8300DDC10F /* Phuket1 Site 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Phuket1 Site 3.jpg"; sourceTree = "<group>"; };
+		04CE423D2EE44F8300DDC10F /* Phuket1 Site 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Phuket1 Site 4.jpg"; sourceTree = "<group>"; };
+		04CE423E2EE44F8300DDC10F /* Phuket1 Site 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Phuket1 Site 5.jpg"; sourceTree = "<group>"; };
+		04CE423F2EE44F8300DDC10F /* private pool 2+1 front view.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "private pool 2+1 front view.jpg"; sourceTree = "<group>"; };
+		04CE42402EE44F8300DDC10F /* private pool and communal pool view.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "private pool and communal pool view.jpg"; sourceTree = "<group>"; };
+		04CE42412EE44F8300DDC10F /* total site night view.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "total site night view.jpg"; sourceTree = "<group>"; };
+		04CE42422EE44F8300DDC10F /* VILLA BEDROOM 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "VILLA BEDROOM 1.jpg"; sourceTree = "<group>"; };
+		04CE42432EE44F8300DDC10F /* VILLA MASTER BEDROOM.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "VILLA MASTER BEDROOM.jpg"; sourceTree = "<group>"; };
+		04CE42442EE44F8300DDC10F /* Villa Sand1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Villa Sand1.jpg"; sourceTree = "<group>"; };
+		04CE42452EE44F8300DDC10F /* west side.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "west side.jpg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		04CE41772EE4300700DDC10F /* hackMobile */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hackMobile;
+			sourceTree = "<group>";
+		};
+		04CE418A2EE4300900DDC10F /* hackMobileTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hackMobileTests;
+			sourceTree = "<group>";
+		};
+		04CE41942EE4300900DDC10F /* hackMobileUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hackMobileUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04CE41722EE4300700DDC10F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CE41842EE4300900DDC10F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CE418E2EE4300900DDC10F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		047C07CD2EE4C8F700BAB298 /* tr.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				047C07CC2EE4C8F700BAB298 /* Localizable.strings */,
+			);
+			name = tr.lproj;
+			path = hackMobile/tr.lproj;
+			sourceTree = "<group>";
+		};
+		047C07D02EE4C92000BAB298 /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				047C07CF2EE4C92000BAB298 /* Localizable.strings */,
+			);
+			name = en.lproj;
+			path = hackMobile/en.lproj;
+			sourceTree = SOURCE_ROOT;
+		};
+		04CE416C2EE4300700DDC10F = {
+			isa = PBXGroup;
+			children = (
+				047C07CD2EE4C8F700BAB298 /* tr.lproj */,
+				04CE42472EE44F8300DDC10F /* evler */,
+				04CE41772EE4300700DDC10F /* hackMobile */,
+				04CE418A2EE4300900DDC10F /* hackMobileTests */,
+				04CE41942EE4300900DDC10F /* hackMobileUITests */,
+				04CE41762EE4300700DDC10F /* Products */,
+				047C07D02EE4C92000BAB298 /* en.lproj */,
+				047C08812EE4D92000BAB298 /* ref_cico 2.wav */,
+			);
+			sourceTree = "<group>";
+		};
+		04CE41762EE4300700DDC10F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04CE41752EE4300700DDC10F /* hackMobile.app */,
+				04CE41872EE4300900DDC10F /* hackMobileTests.xctest */,
+				04CE41912EE4300900DDC10F /* hackMobileUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04CE41DC2EE44F8300DDC10F /* Aloha Beach Resort */ = {
+			isa = PBXGroup;
+			children = (
+				04CE41BF2EE44F8300DDC10F /* 1+1 35M2 PHASE 1.jpeg */,
+				04CE41C02EE44F8300DDC10F /* 1+1 block front profile.jpeg */,
+				04CE41C12EE44F8300DDC10F /* 1+1 phase 1 blocks A type.jpeg */,
+				04CE41C22EE44F8300DDC10F /* 1+1 phase 2 blocks.jpeg */,
+				04CE41C32EE44F8300DDC10F /* 5+1 Villa.jpeg */,
+				04CE41C42EE44F8300DDC10F /* 5+1 Villa Phase 1.jpeg */,
+				04CE41C52EE44F8300DDC10F /* 5+1 Villa view.jpeg */,
+				04CE41C62EE44F8300DDC10F /* A BLOCK CORNER APARTMENTS.jpg */,
+				04CE41C72EE44F8300DDC10F /* A block phase 1 (1+1) .jpg */,
+				04CE41C82EE44F8300DDC10F /* Aloha 6 september Sun-Set.png */,
+				04CE41C92EE44F8300DDC10F /* Fountains in Phase 1.jpg */,
+				04CE41CA2EE44F8300DDC10F /* Night 18 September 3 - LOGOSUZ.jpg */,
+				04CE41CB2EE44F8300DDC10F /* PHASE 1 3 BEDROOM VILLAS.jpg */,
+				04CE41CC2EE44F8300DDC10F /* PHASE 1 A BLOCK POOL VIEW.jpg */,
+				04CE41CD2EE44F8300DDC10F /* PHASE 1 SEA SIDE.jpg */,
+				04CE41CE2EE44F8300DDC10F /* PHASE 1 WATER SHOW A BLOCKS.jpg */,
+				04CE41CF2EE44F8300DDC10F /* Phase 2 1+1 blocks.jpg */,
+				04CE41D02EE44F8300DDC10F /* Phase 2 1+1 blocks .png */,
+				04CE41D12EE44F8300DDC10F /* Phase 2 1+1 blocks NIGHT VIEW.png */,
+				04CE41D22EE44F8300DDC10F /* PHASE 2 A BLOCK.jpg */,
+				04CE41D32EE44F8300DDC10F /* phase 2 A type 1+1.jpg */,
+				04CE41D42EE44F8300DDC10F /* PHASE 2 B BLOCK.jpg */,
+				04CE41D52EE44F8300DDC10F /* PHASE 2 B BLOCK VIEW.jpg */,
+				04CE41D62EE44F8300DDC10F /* PHASE 2 B BLOCKS.jpg */,
+				04CE41D72EE44F8300DDC10F /* RESTAURANT.jpg */,
+				04CE41D82EE44F8300DDC10F /* RESTAURANT POOL AND VILLAS.jpg */,
+				04CE41D92EE44F8300DDC10F /* SANDY BEACH.jpg */,
+				04CE41DA2EE44F8300DDC10F /* SKY VIEW.jpg */,
+				04CE41DB2EE44F8300DDC10F /* Villa 5+1.jpeg */,
+			);
+			path = "Aloha Beach Resort";
+			sourceTree = "<group>";
+		};
+		04CE41F52EE44F8300DDC10F /* Edremmit Villas */ = {
+			isa = PBXGroup;
+			children = (
+				04CE41DD2EE44F8300DDC10F /* 1.jpg */,
+				04CE41DE2EE44F8300DDC10F /* 2.jpg */,
+				04CE41DF2EE44F8300DDC10F /* 3.jpg */,
+				04CE41E02EE44F8300DDC10F /* 4.jpg */,
+				04CE41E12EE44F8300DDC10F /* 5.jpg */,
+				04CE41E22EE44F8300DDC10F /* 6.jpg */,
+				04CE41E32EE44F8300DDC10F /* 7.jpg */,
+				04CE41E42EE44F8300DDC10F /* 8.jpg */,
+				04CE41E52EE44F8300DDC10F /* 9.jpg */,
+				04CE41E62EE44F8300DDC10F /* 10.jpg */,
+				04CE41E72EE44F8300DDC10F /* 11.jpg */,
+				04CE41E82EE44F8300DDC10F /* 13.jpg */,
+				04CE41E92EE44F8300DDC10F /* 15.jpg */,
+				04CE41EA2EE44F8300DDC10F /* 16.jpg */,
+				04CE41EB2EE44F8300DDC10F /* 17.jpg */,
+				04CE41EC2EE44F8300DDC10F /* 18.jpg */,
+				04CE41ED2EE44F8300DDC10F /* 19.jpg */,
+				04CE41EE2EE44F8300DDC10F /* 20.jpg */,
+				04CE41EF2EE44F8300DDC10F /* EDREMIT 1.jpeg */,
+				04CE41F02EE44F8300DDC10F /* EDREMIT 2.jpeg */,
+				04CE41F12EE44F8300DDC10F /* Edremit 3.jpeg */,
+				04CE41F22EE44F8300DDC10F /* Edremit 4.jpeg */,
+				04CE41F32EE44F8300DDC10F /* Edremit 5.jpeg */,
+				04CE41F42EE44F8300DDC10F /* EDREMIT MAP.jpg */,
+			);
+			path = "Edremmit Villas";
+			sourceTree = "<group>";
+		};
+		04CE42072EE44F8300DDC10F /* Pearl Island Homes */ = {
+			isa = PBXGroup;
+			children = (
+				04CE41F62EE44F8300DDC10F /* 0871.origRGB.jpg */,
+				04CE41F72EE44F8300DDC10F /* 0898.origRGB.jpg */,
+				04CE41F82EE44F8300DDC10F /* 0899.origRGB.jpg */,
+				04CE41F92EE44F8300DDC10F /* cam1.origRGB.jpg */,
+				04CE41FA2EE44F8300DDC10F /* cam2.origRGB.jpg */,
+				04CE41FB2EE44F8300DDC10F /* cam4.origRGB.jpg */,
+				04CE41FC2EE44F8300DDC10F /* cam5.origRGB.jpg */,
+				04CE41FD2EE44F8300DDC10F /* cam6.origRGB.jpg */,
+				04CE41FE2EE44F8300DDC10F /* cam9.origRGB.jpg */,
+				04CE41FF2EE44F8300DDC10F /* cam11.origRGB.jpg */,
+				04CE42002EE44F8300DDC10F /* cam15.origRGB.jpg */,
+				04CE42012EE44F8300DDC10F /* cam18.origRGB.jpg */,
+				04CE42022EE44F8300DDC10F /* cam19.jpg */,
+				04CE42032EE44F8300DDC10F /* cam22.RGB_color.jpg */,
+				04CE42042EE44F8300DDC10F /* cam23.RGB_color.jpg */,
+				04CE42052EE44F8300DDC10F /* gece cam1.origRGB.jpg */,
+				04CE42062EE44F8300DDC10F /* gece cam9.origRGB.jpg */,
+			);
+			path = "Pearl Island Homes";
+			sourceTree = "<group>";
+		};
+		04CE42462EE44F8300DDC10F /* Phuket Health and Wellness resort */ = {
+			isa = PBXGroup;
+			children = (
+				04CE42082EE44F8300DDC10F /* 1.jpg */,
+				04CE42092EE44F8300DDC10F /* 2.jpg */,
+				04CE420A2EE44F8300DDC10F /* 2 bedroom penthouse pool view.jpg */,
+				04CE420B2EE44F8300DDC10F /* 2+1 BEDROOM.jpg */,
+				04CE420C2EE44F8300DDC10F /* 2+1 BEDROOM 2.jpg */,
+				04CE420D2EE44F8300DDC10F /* 2+1 BEDROOM 2.1.jpg */,
+				04CE420E2EE44F8300DDC10F /* 2+1 DAY.jpg */,
+				04CE420F2EE44F8300DDC10F /* 2+1 Interior 1.jpg */,
+				04CE42102EE44F8300DDC10F /* 2+1 Interior 2.jpg */,
+				04CE42112EE44F8300DDC10F /* 2+1 NIGHT.jpg */,
+				04CE42122EE44F8300DDC10F /* 2+1 Sun SET.jpg */,
+				04CE42132EE44F8300DDC10F /* 3.jpg */,
+				04CE42142EE44F8300DDC10F /* 3 MAY PHUKET 1.jpg */,
+				04CE42152EE44F8300DDC10F /* 4 DEC 2+1 1.jpg */,
+				04CE42162EE44F8300DDC10F /* 22 APRIL PHUKET 1 1.1.jpg */,
+				04CE42172EE44F8300DDC10F /* 23 APRIL PHUKET 1.jpg */,
+				04CE42182EE44F8300DDC10F /* BeachDeck1.jpg */,
+				04CE42192EE44F8300DDC10F /* east side night.jpg */,
+				04CE421A2EE44F8300DDC10F /* ECOHouse Bedroom 1.jpg */,
+				04CE421B2EE44F8300DDC10F /* ECOHouse Bedroom 2.jpg */,
+				04CE421C2EE44F8300DDC10F /* ECOHouse Bedroom 2.1.jpg */,
+				04CE421D2EE44F8300DDC10F /* ECOHouse Bedroom 3.jpg */,
+				04CE421E2EE44F8300DDC10F /* ECOHouse Bedroom 4.jpg */,
+				04CE421F2EE44F8300DDC10F /* ECOHouse Bedroom 4.1.jpg */,
+				04CE42202EE44F8300DDC10F /* ECOHouse Bedroom 5.jpg */,
+				04CE42212EE44F8300DDC10F /* ECOHouse Bedroom 5.1.jpg */,
+				04CE42222EE44F8300DDC10F /* ECOHouse Bedroom 6.jpg */,
+				04CE42232EE44F8300DDC10F /* ECOHouse Bedroom 6.1.jpg */,
+				04CE42242EE44F8300DDC10F /* ECOHouse Entrance.jpg */,
+				04CE42252EE44F8300DDC10F /* Entrance Day.jpg */,
+				04CE42262EE44F8300DDC10F /* Garden apartment 2+1 pool view.jpg */,
+				04CE42272EE44F8300DDC10F /* night site view 1.jpg */,
+				04CE42282EE44F8300DDC10F /* night site view 2.jpg */,
+				04CE42292EE44F8300DDC10F /* Night sky view.jpg */,
+				04CE422A2EE44F8300DDC10F /* Phase 1 garden view entrance.jpg */,
+				04CE422B2EE44F8300DDC10F /* PHU1 NIGHT1 KARE PİNTEREST.jpg */,
+				04CE422C2EE44F8300DDC10F /* PHU1 NIGHT2.jpg */,
+				04CE422D2EE44F8300DDC10F /* PHU1 NIGHT3.jpg */,
+				04CE422E2EE44F8300DDC10F /* PHU1 NIGHT4.jpg */,
+				04CE422F2EE44F8300DDC10F /* PHU1 NIGHT5.jpg */,
+				04CE42302EE44F8300DDC10F /* PHU1 VILLA.jpg */,
+				04CE42312EE44F8300DDC10F /* PHU1 VILLA Interior1.jpg */,
+				04CE42322EE44F8300DDC10F /* PHU1 VILLA KARE PINTEREST.jpg */,
+				04CE42332EE44F8300DDC10F /* PHU1 VILLA1.1.jpg */,
+				04CE42342EE44F8300DDC10F /* PHU1 VILLA1.2.jpg */,
+				04CE42352EE44F8300DDC10F /* PHUKET 1 MAY 22 - 2.jpg */,
+				04CE42362EE44F8300DDC10F /* PHUKET Phase 1 SITE 2.jpg */,
+				04CE42372EE44F8300DDC10F /* Phuket Phase 1 Site Plan.png */,
+				04CE42382EE44F8300DDC10F /* PHUKET Phase 1 Site Plan 2.jpg */,
+				04CE42392EE44F8300DDC10F /* Phuket Phase 1 Site Plan Crop.png */,
+				04CE423A2EE44F8300DDC10F /* Phuket1 Site.jpg */,
+				04CE423B2EE44F8300DDC10F /* PHUKET1 SITE 2.jpg */,
+				04CE423C2EE44F8300DDC10F /* Phuket1 Site 3.jpg */,
+				04CE423D2EE44F8300DDC10F /* Phuket1 Site 4.jpg */,
+				04CE423E2EE44F8300DDC10F /* Phuket1 Site 5.jpg */,
+				04CE423F2EE44F8300DDC10F /* private pool 2+1 front view.jpg */,
+				04CE42402EE44F8300DDC10F /* private pool and communal pool view.jpg */,
+				04CE42412EE44F8300DDC10F /* total site night view.jpg */,
+				04CE42422EE44F8300DDC10F /* VILLA BEDROOM 1.jpg */,
+				04CE42432EE44F8300DDC10F /* VILLA MASTER BEDROOM.jpg */,
+				04CE42442EE44F8300DDC10F /* Villa Sand1.jpg */,
+				04CE42452EE44F8300DDC10F /* west side.jpg */,
+			);
+			path = "Phuket Health and Wellness resort";
+			sourceTree = "<group>";
+		};
+		04CE42472EE44F8300DDC10F /* evler */ = {
+			isa = PBXGroup;
+			children = (
+				04CE41DC2EE44F8300DDC10F /* Aloha Beach Resort */,
+				04CE41F52EE44F8300DDC10F /* Edremmit Villas */,
+				04CE42072EE44F8300DDC10F /* Pearl Island Homes */,
+				04CE42462EE44F8300DDC10F /* Phuket Health and Wellness resort */,
+			);
+			path = evler;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04CE41742EE4300700DDC10F /* hackMobile */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04CE419B2EE4300900DDC10F /* Build configuration list for PBXNativeTarget "hackMobile" */;
+			buildPhases = (
+				04CE41712EE4300700DDC10F /* Sources */,
+				04CE41722EE4300700DDC10F /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				04CE41772EE4300700DDC10F /* hackMobile */,
+			);
+			name = hackMobile;
+			packageProductDependencies = (
+			);
+			productName = hackMobile;
+			productReference = 04CE41752EE4300700DDC10F /* hackMobile.app */;
+			productType = "com.apple.product-type.application";
+		};
+		04CE41862EE4300900DDC10F /* hackMobileTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04CE419E2EE4300900DDC10F /* Build configuration list for PBXNativeTarget "hackMobileTests" */;
+			buildPhases = (
+				04CE41832EE4300900DDC10F /* Sources */,
+				04CE41842EE4300900DDC10F /* Frameworks */,
+				04CE41852EE4300900DDC10F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04CE41892EE4300900DDC10F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				04CE418A2EE4300900DDC10F /* hackMobileTests */,
+			);
+			name = hackMobileTests;
+			packageProductDependencies = (
+			);
+			productName = hackMobileTests;
+			productReference = 04CE41872EE4300900DDC10F /* hackMobileTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		04CE41902EE4300900DDC10F /* hackMobileUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04CE41A12EE4300900DDC10F /* Build configuration list for PBXNativeTarget "hackMobileUITests" */;
+			buildPhases = (
+				04CE418D2EE4300900DDC10F /* Sources */,
+				04CE418E2EE4300900DDC10F /* Frameworks */,
+				04CE418F2EE4300900DDC10F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04CE41932EE4300900DDC10F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				04CE41942EE4300900DDC10F /* hackMobileUITests */,
+			);
+			name = hackMobileUITests;
+			packageProductDependencies = (
+			);
+			productName = hackMobileUITests;
+			productReference = 04CE41912EE4300900DDC10F /* hackMobileUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04CE416D2EE4300700DDC10F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					04CE41742EE4300700DDC10F = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					04CE41862EE4300900DDC10F = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 04CE41742EE4300700DDC10F;
+					};
+					04CE41902EE4300900DDC10F = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 04CE41742EE4300700DDC10F;
+					};
+				};
+			};
+			buildConfigurationList = 04CE41702EE4300700DDC10F /* Build configuration list for PBXProject "hackMobile" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				tr,
+			);
+			mainGroup = 04CE416C2EE4300700DDC10F;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 04CE41762EE4300700DDC10F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04CE41742EE4300700DDC10F /* hackMobile */,
+				04CE41862EE4300900DDC10F /* hackMobileTests */,
+				04CE41902EE4300900DDC10F /* hackMobileUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04CE41852EE4300900DDC10F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04CE43502EE44F8300DDC10F /* cam9.origRGB.jpg in Resources */,
+				04CE43512EE44F8300DDC10F /* 2+1 BEDROOM 2.jpg in Resources */,
+				04CE43522EE44F8300DDC10F /* Edremit 3.jpeg in Resources */,
+				04CE43532EE44F8300DDC10F /* 11.jpg in Resources */,
+				04CE43542EE44F8300DDC10F /* ECOHouse Bedroom 6.jpg in Resources */,
+				04CE43552EE44F8300DDC10F /* A block phase 1 (1+1) .jpg in Resources */,
+				04CE43562EE44F8300DDC10F /* PHU1 NIGHT2.jpg in Resources */,
+				04CE43572EE44F8300DDC10F /* 0898.origRGB.jpg in Resources */,
+				04CE43582EE44F8300DDC10F /* PHUKET 1 MAY 22 - 2.jpg in Resources */,
+				04CE43592EE44F8300DDC10F /* ECOHouse Bedroom 5.jpg in Resources */,
+				04CE435A2EE44F8300DDC10F /* total site night view.jpg in Resources */,
+				04CE435B2EE44F8300DDC10F /* 2+1 BEDROOM 2.1.jpg in Resources */,
+				04CE435C2EE44F8300DDC10F /* 1+1 block front profile.jpeg in Resources */,
+				04CE435D2EE44F8300DDC10F /* 5+1 Villa view.jpeg in Resources */,
+				04CE435E2EE44F8300DDC10F /* ECOHouse Bedroom 4.1.jpg in Resources */,
+				04CE435F2EE44F8300DDC10F /* BeachDeck1.jpg in Resources */,
+				04CE43602EE44F8300DDC10F /* SKY VIEW.jpg in Resources */,
+				04CE43612EE44F8300DDC10F /* cam15.origRGB.jpg in Resources */,
+				04CE43622EE44F8300DDC10F /* gece cam1.origRGB.jpg in Resources */,
+				04CE43632EE44F8300DDC10F /* night site view 1.jpg in Resources */,
+				04CE43642EE44F8300DDC10F /* cam6.origRGB.jpg in Resources */,
+				04CE43652EE44F8300DDC10F /* PHU1 VILLA KARE PINTEREST.jpg in Resources */,
+				04CE43662EE44F8300DDC10F /* 2+1 Interior 2.jpg in Resources */,
+				04CE43672EE44F8300DDC10F /* PHASE 2 A BLOCK.jpg in Resources */,
+				04CE43682EE44F8300DDC10F /* 4 DEC 2+1 1.jpg in Resources */,
+				04CE43692EE44F8300DDC10F /* cam18.origRGB.jpg in Resources */,
+				04CE436A2EE44F8300DDC10F /* RESTAURANT POOL AND VILLAS.jpg in Resources */,
+				04CE436B2EE44F8300DDC10F /* ECOHouse Bedroom 3.jpg in Resources */,
+				04CE436C2EE44F8300DDC10F /* Phuket1 Site 4.jpg in Resources */,
+				04CE436D2EE44F8300DDC10F /* RESTAURANT.jpg in Resources */,
+				04CE436E2EE44F8300DDC10F /* Phase 2 1+1 blocks .png in Resources */,
+				04CE436F2EE44F8300DDC10F /* ECOHouse Bedroom 1.jpg in Resources */,
+				04CE43702EE44F8300DDC10F /* cam1.origRGB.jpg in Resources */,
+				04CE43712EE44F8300DDC10F /* Phase 2 1+1 blocks.jpg in Resources */,
+				04CE43722EE44F8300DDC10F /* 6.jpg in Resources */,
+				04CE43732EE44F8300DDC10F /* PHU1 NIGHT5.jpg in Resources */,
+				04CE43742EE44F8300DDC10F /* 2+1 Sun SET.jpg in Resources */,
+				04CE43752EE44F8300DDC10F /* east side night.jpg in Resources */,
+				04CE43762EE44F8300DDC10F /* 23 APRIL PHUKET 1.jpg in Resources */,
+				04CE43772EE44F8300DDC10F /* 8.jpg in Resources */,
+				04CE43782EE44F8300DDC10F /* Fountains in Phase 1.jpg in Resources */,
+				04CE43792EE44F8300DDC10F /* Edremit 5.jpeg in Resources */,
+				04CE437A2EE44F8300DDC10F /* 1+1 phase 1 blocks A type.jpeg in Resources */,
+				04CE437B2EE44F8300DDC10F /* 1+1 phase 2 blocks.jpeg in Resources */,
+				04CE437C2EE44F8300DDC10F /* ECOHouse Bedroom 2.1.jpg in Resources */,
+				04CE437D2EE44F8300DDC10F /* VILLA MASTER BEDROOM.jpg in Resources */,
+				04CE437E2EE44F8300DDC10F /* Night 18 September 3 - LOGOSUZ.jpg in Resources */,
+				04CE437F2EE44F8300DDC10F /* Phuket1 Site 3.jpg in Resources */,
+				04CE43802EE44F8300DDC10F /* PHASE 2 B BLOCKS.jpg in Resources */,
+				04CE43812EE44F8300DDC10F /* Phuket1 Site 5.jpg in Resources */,
+				04CE43822EE44F8300DDC10F /* private pool 2+1 front view.jpg in Resources */,
+				04CE43832EE44F8300DDC10F /* Aloha 6 september Sun-Set.png in Resources */,
+				04CE43842EE44F8300DDC10F /* PHUKET1 SITE 2.jpg in Resources */,
+				04CE43852EE44F8300DDC10F /* PHASE 1 3 BEDROOM VILLAS.jpg in Resources */,
+				04CE43862EE44F8300DDC10F /* PHU1 NIGHT4.jpg in Resources */,
+				04CE43872EE44F8300DDC10F /* PHASE 1 SEA SIDE.jpg in Resources */,
+				04CE43882EE44F8300DDC10F /* PHU1 NIGHT1 KARE PİNTEREST.jpg in Resources */,
+				04CE43892EE44F8300DDC10F /* west side.jpg in Resources */,
+				04CE438A2EE44F8300DDC10F /* 2.jpg in Resources */,
+				04CE438B2EE44F8300DDC10F /* PHASE 2 B BLOCK.jpg in Resources */,
+				04CE438C2EE44F8300DDC10F /* 13.jpg in Resources */,
+				04CE438D2EE44F8300DDC10F /* 2+1 BEDROOM.jpg in Resources */,
+				04CE438E2EE44F8300DDC10F /* gece cam9.origRGB.jpg in Resources */,
+				04CE438F2EE44F8300DDC10F /* PHU1 VILLA1.2.jpg in Resources */,
+				04CE43902EE44F8300DDC10F /* A BLOCK CORNER APARTMENTS.jpg in Resources */,
+				04CE43912EE44F8300DDC10F /* ECOHouse Bedroom 2.jpg in Resources */,
+				04CE43922EE44F8300DDC10F /* PHASE 2 B BLOCK VIEW.jpg in Resources */,
+				04CE43932EE44F8300DDC10F /* 2+1 Interior 1.jpg in Resources */,
+				04CE43942EE44F8300DDC10F /* 1+1 35M2 PHASE 1.jpeg in Resources */,
+				04CE43952EE44F8300DDC10F /* PHUKET Phase 1 SITE 2.jpg in Resources */,
+				04CE43962EE44F8300DDC10F /* 17.jpg in Resources */,
+				04CE43972EE44F8300DDC10F /* 1.jpg in Resources */,
+				04CE43982EE44F8300DDC10F /* ECOHouse Bedroom 5.1.jpg in Resources */,
+				04CE43992EE44F8300DDC10F /* EDREMIT 1.jpeg in Resources */,
+				04CE439A2EE44F8300DDC10F /* 2 bedroom penthouse pool view.jpg in Resources */,
+				04CE439B2EE44F8300DDC10F /* VILLA BEDROOM 1.jpg in Resources */,
+				04CE439C2EE44F8300DDC10F /* 3.jpg in Resources */,
+				04CE439D2EE44F8300DDC10F /* Edremit 4.jpeg in Resources */,
+				04CE439E2EE44F8300DDC10F /* 5+1 Villa.jpeg in Resources */,
+				04CE439F2EE44F8300DDC10F /* SANDY BEACH.jpg in Resources */,
+				04CE43A02EE44F8300DDC10F /* Phuket1 Site.jpg in Resources */,
+				04CE43A12EE44F8300DDC10F /* 0871.origRGB.jpg in Resources */,
+				04CE43A22EE44F8300DDC10F /* ECOHouse Bedroom 4.jpg in Resources */,
+				04CE43A32EE44F8300DDC10F /* 5+1 Villa Phase 1.jpeg in Resources */,
+				04CE43A42EE44F8300DDC10F /* 4.jpg in Resources */,
+				04CE43A52EE44F8300DDC10F /* EDREMIT MAP.jpg in Resources */,
+				04CE43A62EE44F8300DDC10F /* 5.jpg in Resources */,
+				04CE43A72EE44F8300DDC10F /* 19.jpg in Resources */,
+				04CE43A82EE44F8300DDC10F /* 9.jpg in Resources */,
+				04CE43A92EE44F8300DDC10F /* PHU1 NIGHT3.jpg in Resources */,
+				04CE43AA2EE44F8300DDC10F /* 10.jpg in Resources */,
+				04CE43AB2EE44F8300DDC10F /* 20.jpg in Resources */,
+				04CE43AC2EE44F8300DDC10F /* EDREMIT 2.jpeg in Resources */,
+				04CE43AD2EE44F8300DDC10F /* cam23.RGB_color.jpg in Resources */,
+				04CE43AE2EE44F8300DDC10F /* cam4.origRGB.jpg in Resources */,
+				04CE43AF2EE44F8300DDC10F /* cam11.origRGB.jpg in Resources */,
+				04CE43B02EE44F8300DDC10F /* cam22.RGB_color.jpg in Resources */,
+				04CE43B12EE44F8300DDC10F /* 2+1 DAY.jpg in Resources */,
+				04CE43B22EE44F8300DDC10F /* PHU1 VILLA Interior1.jpg in Resources */,
+				04CE43B32EE44F8300DDC10F /* 2.jpg in Resources */,
+				04CE43B42EE44F8300DDC10F /* 22 APRIL PHUKET 1 1.1.jpg in Resources */,
+				04CE43B52EE44F8300DDC10F /* PHU1 VILLA.jpg in Resources */,
+				04CE43B62EE44F8300DDC10F /* 7.jpg in Resources */,
+				04CE43B72EE44F8300DDC10F /* 15.jpg in Resources */,
+				04CE43B82EE44F8300DDC10F /* PHASE 1 A BLOCK POOL VIEW.jpg in Resources */,
+				04CE43B92EE44F8300DDC10F /* Garden apartment 2+1 pool view.jpg in Resources */,
+				04CE43BA2EE44F8300DDC10F /* Entrance Day.jpg in Resources */,
+				04CE43BB2EE44F8300DDC10F /* 1.jpg in Resources */,
+				04CE43BC2EE44F8300DDC10F /* Phuket Phase 1 Site Plan Crop.png in Resources */,
+				04CE43BD2EE44F8300DDC10F /* cam2.origRGB.jpg in Resources */,
+				04CE43BE2EE44F8300DDC10F /* PHASE 1 WATER SHOW A BLOCKS.jpg in Resources */,
+				04CE43BF2EE44F8300DDC10F /* Phase 1 garden view entrance.jpg in Resources */,
+				04CE43C02EE44F8300DDC10F /* 0899.origRGB.jpg in Resources */,
+				04CE43C12EE44F8300DDC10F /* 16.jpg in Resources */,
+				04CE43C22EE44F8300DDC10F /* 2+1 NIGHT.jpg in Resources */,
+				04CE43C32EE44F8300DDC10F /* Villa 5+1.jpeg in Resources */,
+				04CE43C42EE44F8300DDC10F /* cam19.jpg in Resources */,
+				04CE43C52EE44F8300DDC10F /* Phuket Phase 1 Site Plan.png in Resources */,
+				04CE43C62EE44F8300DDC10F /* 3 MAY PHUKET 1.jpg in Resources */,
+				04CE43C72EE44F8300DDC10F /* ECOHouse Entrance.jpg in Resources */,
+				04CE43C82EE44F8300DDC10F /* Night sky view.jpg in Resources */,
+				04CE43C92EE44F8300DDC10F /* PHUKET Phase 1 Site Plan 2.jpg in Resources */,
+				04CE43CA2EE44F8300DDC10F /* PHU1 VILLA1.1.jpg in Resources */,
+				04CE43CB2EE44F8300DDC10F /* ECOHouse Bedroom 6.1.jpg in Resources */,
+				04CE43CC2EE44F8300DDC10F /* private pool and communal pool view.jpg in Resources */,
+				04CE43CD2EE44F8300DDC10F /* 3.jpg in Resources */,
+				04CE43CE2EE44F8300DDC10F /* 18.jpg in Resources */,
+				04CE43CF2EE44F8300DDC10F /* Villa Sand1.jpg in Resources */,
+				04CE43D02EE44F8300DDC10F /* Phase 2 1+1 blocks NIGHT VIEW.png in Resources */,
+				04CE43D12EE44F8300DDC10F /* phase 2 A type 1+1.jpg in Resources */,
+				04CE43D22EE44F8300DDC10F /* cam5.origRGB.jpg in Resources */,
+				04CE43D32EE44F8300DDC10F /* night site view 2.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CE418F2EE4300900DDC10F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04CE42482EE44F8300DDC10F /* cam9.origRGB.jpg in Resources */,
+				04CE42492EE44F8300DDC10F /* 2+1 BEDROOM 2.jpg in Resources */,
+				04CE424A2EE44F8300DDC10F /* Edremit 3.jpeg in Resources */,
+				04CE424B2EE44F8300DDC10F /* 11.jpg in Resources */,
+				04CE424C2EE44F8300DDC10F /* ECOHouse Bedroom 6.jpg in Resources */,
+				04CE424D2EE44F8300DDC10F /* A block phase 1 (1+1) .jpg in Resources */,
+				04CE424E2EE44F8300DDC10F /* PHU1 NIGHT2.jpg in Resources */,
+				04CE424F2EE44F8300DDC10F /* 0898.origRGB.jpg in Resources */,
+				04CE42502EE44F8300DDC10F /* PHUKET 1 MAY 22 - 2.jpg in Resources */,
+				04CE42512EE44F8300DDC10F /* ECOHouse Bedroom 5.jpg in Resources */,
+				04CE42522EE44F8300DDC10F /* total site night view.jpg in Resources */,
+				04CE42532EE44F8300DDC10F /* 2+1 BEDROOM 2.1.jpg in Resources */,
+				04CE42542EE44F8300DDC10F /* 1+1 block front profile.jpeg in Resources */,
+				04CE42552EE44F8300DDC10F /* 5+1 Villa view.jpeg in Resources */,
+				04CE42562EE44F8300DDC10F /* ECOHouse Bedroom 4.1.jpg in Resources */,
+				04CE42572EE44F8300DDC10F /* BeachDeck1.jpg in Resources */,
+				04CE42582EE44F8300DDC10F /* SKY VIEW.jpg in Resources */,
+				04CE42592EE44F8300DDC10F /* cam15.origRGB.jpg in Resources */,
+				04CE425A2EE44F8300DDC10F /* gece cam1.origRGB.jpg in Resources */,
+				04CE425B2EE44F8300DDC10F /* night site view 1.jpg in Resources */,
+				04CE425C2EE44F8300DDC10F /* cam6.origRGB.jpg in Resources */,
+				04CE425D2EE44F8300DDC10F /* PHU1 VILLA KARE PINTEREST.jpg in Resources */,
+				04CE425E2EE44F8300DDC10F /* 2+1 Interior 2.jpg in Resources */,
+				04CE425F2EE44F8300DDC10F /* PHASE 2 A BLOCK.jpg in Resources */,
+				04CE42602EE44F8300DDC10F /* 4 DEC 2+1 1.jpg in Resources */,
+				04CE42612EE44F8300DDC10F /* cam18.origRGB.jpg in Resources */,
+				04CE42622EE44F8300DDC10F /* RESTAURANT POOL AND VILLAS.jpg in Resources */,
+				04CE42632EE44F8300DDC10F /* ECOHouse Bedroom 3.jpg in Resources */,
+				04CE42642EE44F8300DDC10F /* Phuket1 Site 4.jpg in Resources */,
+				04CE42652EE44F8300DDC10F /* RESTAURANT.jpg in Resources */,
+				04CE42662EE44F8300DDC10F /* Phase 2 1+1 blocks .png in Resources */,
+				04CE42672EE44F8300DDC10F /* ECOHouse Bedroom 1.jpg in Resources */,
+				04CE42682EE44F8300DDC10F /* cam1.origRGB.jpg in Resources */,
+				04CE42692EE44F8300DDC10F /* Phase 2 1+1 blocks.jpg in Resources */,
+				04CE426A2EE44F8300DDC10F /* 6.jpg in Resources */,
+				04CE426B2EE44F8300DDC10F /* PHU1 NIGHT5.jpg in Resources */,
+				04CE426C2EE44F8300DDC10F /* 2+1 Sun SET.jpg in Resources */,
+				04CE426D2EE44F8300DDC10F /* east side night.jpg in Resources */,
+				04CE426E2EE44F8300DDC10F /* 23 APRIL PHUKET 1.jpg in Resources */,
+				04CE426F2EE44F8300DDC10F /* 8.jpg in Resources */,
+				04CE42702EE44F8300DDC10F /* Fountains in Phase 1.jpg in Resources */,
+				04CE42712EE44F8300DDC10F /* Edremit 5.jpeg in Resources */,
+				04CE42722EE44F8300DDC10F /* 1+1 phase 1 blocks A type.jpeg in Resources */,
+				04CE42732EE44F8300DDC10F /* 1+1 phase 2 blocks.jpeg in Resources */,
+				04CE42742EE44F8300DDC10F /* ECOHouse Bedroom 2.1.jpg in Resources */,
+				04CE42752EE44F8300DDC10F /* VILLA MASTER BEDROOM.jpg in Resources */,
+				04CE42762EE44F8300DDC10F /* Night 18 September 3 - LOGOSUZ.jpg in Resources */,
+				04CE42772EE44F8300DDC10F /* Phuket1 Site 3.jpg in Resources */,
+				04CE42782EE44F8300DDC10F /* PHASE 2 B BLOCKS.jpg in Resources */,
+				04CE42792EE44F8300DDC10F /* Phuket1 Site 5.jpg in Resources */,
+				04CE427A2EE44F8300DDC10F /* private pool 2+1 front view.jpg in Resources */,
+				04CE427B2EE44F8300DDC10F /* Aloha 6 september Sun-Set.png in Resources */,
+				04CE427C2EE44F8300DDC10F /* PHUKET1 SITE 2.jpg in Resources */,
+				04CE427D2EE44F8300DDC10F /* PHASE 1 3 BEDROOM VILLAS.jpg in Resources */,
+				04CE427E2EE44F8300DDC10F /* PHU1 NIGHT4.jpg in Resources */,
+				04CE427F2EE44F8300DDC10F /* PHASE 1 SEA SIDE.jpg in Resources */,
+				04CE42802EE44F8300DDC10F /* PHU1 NIGHT1 KARE PİNTEREST.jpg in Resources */,
+				04CE42812EE44F8300DDC10F /* west side.jpg in Resources */,
+				04CE42822EE44F8300DDC10F /* 2.jpg in Resources */,
+				04CE42832EE44F8300DDC10F /* PHASE 2 B BLOCK.jpg in Resources */,
+				04CE42842EE44F8300DDC10F /* 13.jpg in Resources */,
+				04CE42852EE44F8300DDC10F /* 2+1 BEDROOM.jpg in Resources */,
+				04CE42862EE44F8300DDC10F /* gece cam9.origRGB.jpg in Resources */,
+				04CE42872EE44F8300DDC10F /* PHU1 VILLA1.2.jpg in Resources */,
+				04CE42882EE44F8300DDC10F /* A BLOCK CORNER APARTMENTS.jpg in Resources */,
+				04CE42892EE44F8300DDC10F /* ECOHouse Bedroom 2.jpg in Resources */,
+				04CE428A2EE44F8300DDC10F /* PHASE 2 B BLOCK VIEW.jpg in Resources */,
+				04CE428B2EE44F8300DDC10F /* 2+1 Interior 1.jpg in Resources */,
+				04CE428C2EE44F8300DDC10F /* 1+1 35M2 PHASE 1.jpeg in Resources */,
+				04CE428D2EE44F8300DDC10F /* PHUKET Phase 1 SITE 2.jpg in Resources */,
+				04CE428E2EE44F8300DDC10F /* 17.jpg in Resources */,
+				04CE428F2EE44F8300DDC10F /* 1.jpg in Resources */,
+				04CE42902EE44F8300DDC10F /* ECOHouse Bedroom 5.1.jpg in Resources */,
+				04CE42912EE44F8300DDC10F /* EDREMIT 1.jpeg in Resources */,
+				04CE42922EE44F8300DDC10F /* 2 bedroom penthouse pool view.jpg in Resources */,
+				04CE42932EE44F8300DDC10F /* VILLA BEDROOM 1.jpg in Resources */,
+				04CE42942EE44F8300DDC10F /* 3.jpg in Resources */,
+				04CE42952EE44F8300DDC10F /* Edremit 4.jpeg in Resources */,
+				04CE42962EE44F8300DDC10F /* 5+1 Villa.jpeg in Resources */,
+				04CE42972EE44F8300DDC10F /* SANDY BEACH.jpg in Resources */,
+				04CE42982EE44F8300DDC10F /* Phuket1 Site.jpg in Resources */,
+				04CE42992EE44F8300DDC10F /* 0871.origRGB.jpg in Resources */,
+				04CE429A2EE44F8300DDC10F /* ECOHouse Bedroom 4.jpg in Resources */,
+				04CE429B2EE44F8300DDC10F /* 5+1 Villa Phase 1.jpeg in Resources */,
+				04CE429C2EE44F8300DDC10F /* 4.jpg in Resources */,
+				04CE429D2EE44F8300DDC10F /* EDREMIT MAP.jpg in Resources */,
+				04CE429E2EE44F8300DDC10F /* 5.jpg in Resources */,
+				04CE429F2EE44F8300DDC10F /* 19.jpg in Resources */,
+				04CE42A02EE44F8300DDC10F /* 9.jpg in Resources */,
+				04CE42A12EE44F8300DDC10F /* PHU1 NIGHT3.jpg in Resources */,
+				04CE42A22EE44F8300DDC10F /* 10.jpg in Resources */,
+				04CE42A32EE44F8300DDC10F /* 20.jpg in Resources */,
+				04CE42A42EE44F8300DDC10F /* EDREMIT 2.jpeg in Resources */,
+				04CE42A52EE44F8300DDC10F /* cam23.RGB_color.jpg in Resources */,
+				04CE42A62EE44F8300DDC10F /* cam4.origRGB.jpg in Resources */,
+				04CE42A72EE44F8300DDC10F /* cam11.origRGB.jpg in Resources */,
+				04CE42A82EE44F8300DDC10F /* cam22.RGB_color.jpg in Resources */,
+				04CE42A92EE44F8300DDC10F /* 2+1 DAY.jpg in Resources */,
+				04CE42AA2EE44F8300DDC10F /* PHU1 VILLA Interior1.jpg in Resources */,
+				04CE42AB2EE44F8300DDC10F /* 2.jpg in Resources */,
+				04CE42AC2EE44F8300DDC10F /* 22 APRIL PHUKET 1 1.1.jpg in Resources */,
+				04CE42AD2EE44F8300DDC10F /* PHU1 VILLA.jpg in Resources */,
+				04CE42AE2EE44F8300DDC10F /* 7.jpg in Resources */,
+				04CE42AF2EE44F8300DDC10F /* 15.jpg in Resources */,
+				04CE42B02EE44F8300DDC10F /* PHASE 1 A BLOCK POOL VIEW.jpg in Resources */,
+				04CE42B12EE44F8300DDC10F /* Garden apartment 2+1 pool view.jpg in Resources */,
+				04CE42B22EE44F8300DDC10F /* Entrance Day.jpg in Resources */,
+				04CE42B32EE44F8300DDC10F /* 1.jpg in Resources */,
+				04CE42B42EE44F8300DDC10F /* Phuket Phase 1 Site Plan Crop.png in Resources */,
+				04CE42B52EE44F8300DDC10F /* cam2.origRGB.jpg in Resources */,
+				04CE42B62EE44F8300DDC10F /* PHASE 1 WATER SHOW A BLOCKS.jpg in Resources */,
+				04CE42B72EE44F8300DDC10F /* Phase 1 garden view entrance.jpg in Resources */,
+				04CE42B82EE44F8300DDC10F /* 0899.origRGB.jpg in Resources */,
+				04CE42B92EE44F8300DDC10F /* 16.jpg in Resources */,
+				04CE42BA2EE44F8300DDC10F /* 2+1 NIGHT.jpg in Resources */,
+				04CE42BB2EE44F8300DDC10F /* Villa 5+1.jpeg in Resources */,
+				04CE42BC2EE44F8300DDC10F /* cam19.jpg in Resources */,
+				04CE42BD2EE44F8300DDC10F /* Phuket Phase 1 Site Plan.png in Resources */,
+				04CE42BE2EE44F8300DDC10F /* 3 MAY PHUKET 1.jpg in Resources */,
+				04CE42BF2EE44F8300DDC10F /* ECOHouse Entrance.jpg in Resources */,
+				04CE42C02EE44F8300DDC10F /* Night sky view.jpg in Resources */,
+				04CE42C12EE44F8300DDC10F /* PHUKET Phase 1 Site Plan 2.jpg in Resources */,
+				04CE42C22EE44F8300DDC10F /* PHU1 VILLA1.1.jpg in Resources */,
+				04CE42C32EE44F8300DDC10F /* ECOHouse Bedroom 6.1.jpg in Resources */,
+				04CE42C42EE44F8300DDC10F /* private pool and communal pool view.jpg in Resources */,
+				04CE42C52EE44F8300DDC10F /* 3.jpg in Resources */,
+				04CE42C62EE44F8300DDC10F /* 18.jpg in Resources */,
+				04CE42C72EE44F8300DDC10F /* Villa Sand1.jpg in Resources */,
+				04CE42C82EE44F8300DDC10F /* Phase 2 1+1 blocks NIGHT VIEW.png in Resources */,
+				04CE42C92EE44F8300DDC10F /* phase 2 A type 1+1.jpg in Resources */,
+				04CE42CA2EE44F8300DDC10F /* cam5.origRGB.jpg in Resources */,
+				04CE42CB2EE44F8300DDC10F /* night site view 2.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04CE41712EE4300700DDC10F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CE41832EE4300900DDC10F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CE418D2EE4300900DDC10F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		04CE41892EE4300900DDC10F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04CE41742EE4300700DDC10F /* hackMobile */;
+			targetProxy = 04CE41882EE4300900DDC10F /* PBXContainerItemProxy */;
+		};
+		04CE41932EE4300900DDC10F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04CE41742EE4300700DDC10F /* hackMobile */;
+			targetProxy = 04CE41922EE4300900DDC10F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		047C07CC2EE4C8F700BAB298 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				047C07CB2EE4C8F700BAB298 /* tr */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		047C07CF2EE4C92000BAB298 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				047C07CE2EE4C92000BAB298 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		04CE41992EE4300900DDC10F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = NNHX928F63;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		04CE419A2EE4300900DDC10F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = NNHX928F63;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04CE419C2EE4300900DDC10F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NNHX928F63;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "AI asistanınızla konuşmak için mikrofon erişimine ihtiyacımız var.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Sesli komutlarınızı anlamak için konuşma tanıma erişimine ihtiyacımız var.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.nativestruct.studio.hackMobile;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		04CE419D2EE4300900DDC10F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NNHX928F63;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "AI asistanınızla konuşmak için mikrofon erişimine ihtiyacımız var.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Sesli komutlarınızı anlamak için konuşma tanıma erişimine ihtiyacımız var.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.nativestruct.studio.hackMobile;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		04CE419F2EE4300900DDC10F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NNHX928F63;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.nativestruct.studio.hackMobileTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hackMobile.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/hackMobile";
+			};
+			name = Debug;
+		};
+		04CE41A02EE4300900DDC10F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NNHX928F63;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.nativestruct.studio.hackMobileTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hackMobile.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/hackMobile";
+			};
+			name = Release;
+		};
+		04CE41A22EE4300900DDC10F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NNHX928F63;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.nativestruct.studio.hackMobileUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = hackMobile;
+			};
+			name = Debug;
+		};
+		04CE41A32EE4300900DDC10F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NNHX928F63;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.nativestruct.studio.hackMobileUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = hackMobile;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04CE41702EE4300700DDC10F /* Build configuration list for PBXProject "hackMobile" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04CE41992EE4300900DDC10F /* Debug */,
+				04CE419A2EE4300900DDC10F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04CE419B2EE4300900DDC10F /* Build configuration list for PBXNativeTarget "hackMobile" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04CE419C2EE4300900DDC10F /* Debug */,
+				04CE419D2EE4300900DDC10F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04CE419E2EE4300900DDC10F /* Build configuration list for PBXNativeTarget "hackMobileTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04CE419F2EE4300900DDC10F /* Debug */,
+				04CE41A02EE4300900DDC10F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04CE41A12EE4300900DDC10F /* Build configuration list for PBXNativeTarget "hackMobileUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04CE41A22EE4300900DDC10F /* Debug */,
+				04CE41A32EE4300900DDC10F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04CE416D2EE4300700DDC10F /* Project object */;
+}
